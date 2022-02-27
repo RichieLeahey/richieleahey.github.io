@@ -22,20 +22,16 @@ let pageAuthor = 'Richie Leahey';
    document.write(pageView);
  }
 
+ pageTitles();
+ pageAuthors();
+ pageViews();
+
  </script>
 
 
-
-
-     <h1 class="page-title"><script>pageTitles();</script></h1>
-
-     <p>by: <script>pageAuthors();</script></p>
-
-
-
-     <small><script>pageViews();</script></small>
-
-
+<h1 class="page-title"><script>pageTitles();</script></h1>
+<p>by: <script>pageAuthors();</script></p>
+<small><script>pageViews();</script></small>
 
 <h2>Portfolio</h2>
 

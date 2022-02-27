@@ -24,6 +24,19 @@ let pageAuthor = 'Richie Leahey';
 
  </script>
 
+
+
+
+     <h1 class="page-title"><script>pageTitles();</script></h1>
+
+     <p>by: <script>pageAuthors();</script></p>
+
+
+
+     <small><script>pageViews();</script></small>
+
+
+
 <h2>Portfolio</h2>
 
 <h2>Contact</h2>

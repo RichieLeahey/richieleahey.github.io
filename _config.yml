@@ -1,3 +1,8 @@
 theme: jekyll-theme-cayman
 title: Richie Leahey
 description: This is the porfolio website for web developer Richie Leahey.
+
+
+author:
+  name:       Richie Leahey
+  url:        https://richieleahey.com

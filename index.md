@@ -197,7 +197,7 @@ for (let i = 0; i < accordionHeaders.length; i++) {
   accordionHeaders[i].addEventListener('click', () => {
     accordionContents[i].style.display = accordionContents[i].style.display == 'block' ? 'none' : 'block';
     accordionIcons[i].innerHTML = accordionContents[i].style.display == 'block' ? '-' : '+';
-  })
+  });
 }
 
 </script>

@@ -313,45 +313,6 @@ I was a member of the PTO at EE Miller Elementary School. I regularly attended m
 
 
 
-
-<style>
-
-.accordion {
-  max-width: 500px;
-  border: 1px solid #000;
-  border-bottom: none;
-}
-
-.accordion:last-child {
-  border-bottom: 1px solid #000;
-}
-
-.accordion-header {
-  display: flex;
-  padding: 16px;
-  cursor: pointer;
-  background-color: #F2F2F2;
-}
-
-.accordion-title {
-  flex: 1;
-}
-
-.accordion-icon: {
-  width: 16px;
-}
-
-.accordion-content {
-  padding: 16px;
-}
-
-.accordion-content {
-  display: none;
-}
-
-</style>
-
-
 <section id="volunteer-work">
 
 <h2>Volunteer Work</h2>
@@ -492,43 +453,4 @@ for (let i = 0; i < accordionHeaders.length; i++) {
 
 
 
-
-
-<h2>About</h2>
-
-<script type="text/javascript">
-
-let pageView = 0;
-let siteTitle = "RichieLeahey.com";
-let pageTitle = 'All About Me';
-let pageAuthor = 'Richie Leahey';
-
-
- function pageTitles() {
-
-   document.write(pageTitle);
- }
-
- function pageAuthors() {
-   document.write(pageAuthor);
- }
-
- function pageViews() {
-   pageView++;
-   document.write(pageView);
- }
-
- pageTitles();
- pageAuthors();
- pageViews();
-
- </script>
-
-
-<h1 class="page-title"><script>pageTitles();</script></h1>
-<p>by: <script>pageAuthors();</script></p>
-<small><script>pageViews();</script></small>
-
 <h2>Portfolio</h2>
-
-<h2>Contact</h2>

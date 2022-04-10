@@ -7,3 +7,40 @@ body {
     background-color:#ffffff;
     font-family: "Roboto", Helvetica, Arial, sans-serif;
   }
+
+
+
+
+
+  .accordion {
+    max-width: 500px;
+    border: 1px solid #000;
+    border-bottom: none;
+  }
+
+  .accordion:last-child {
+    border-bottom: 1px solid #000;
+  }
+
+  .accordion-header {
+    display: flex;
+    padding: 16px;
+    cursor: pointer;
+    background-color: #F2F2F2;
+  }
+
+  .accordion-title {
+    flex: 1;
+  }
+
+  .accordion-icon: {
+    width: 16px;
+  }
+
+  .accordion-content {
+    padding: 16px;
+  }
+
+  .accordion-content {
+    display: none;
+  }

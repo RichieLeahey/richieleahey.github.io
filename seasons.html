@@ -1,0 +1,148 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+<title></title>
+
+
+<style>
+
+body {
+  background-color: #33CC99;
+  width: 100%;
+  max-width: 800px;
+  margin: 0px auto;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji";
+  color: #FFF;
+}
+
+h1 {
+  font-size: 3.25rem;
+}
+
+h2 {
+  font-size: 2rem;
+}
+
+p, form, input, select {
+  font-size: 1.25rem;
+}
+
+hr {
+  outline: none;
+  border: none;
+  height: 1px;
+  background-color: #FFF;
+  margin: 24px 0px;
+}
+
+figure {
+  margin: 24px 0px 48px;
+}
+
+img {
+  margin: 0px 0px 8px;
+  width: 100%;
+  max-width: 100%;
+}
+</style>
+
+
+</head>
+
+<body>
+
+<h1>Seasons</h1>
+
+<p>This is interactive webpage that changes the content based on the season that is selected using the following dropdown.</p>
+
+<form>
+
+Select your favorite season to change the website theme:
+
+<select id="background" onchange="seasonSelector(this)">
+  <option value="spring">Spring</option>
+  <option value="summer">Summer</option>
+  <option value="autumn">Autumn</option>
+  <option value="winter">Winter</option>
+
+</select>
+
+</form>
+
+<hr>
+
+<h2 id="season-title">Spring</h2>
+
+<p id="season-description">Spring, also known as springtime, is one of the four temperate seasons, succeeding winter and preceding summer.</p>
+
+<figure>
+  <img width="500" id="season-image" src="./images/seasons/spring.jpg" />
+  <figcaption id="season-image-caption">Photo by <a href="https://unsplash.com/@mitchel3uo?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Mitchell Luo</a> on <a href="https://unsplash.com/s/photos/spring?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a></figcaption>
+</figure>
+
+
+<script>
+
+// Continue to improve the season selector that we create for assignment 8. Feel free to change the topic from seasons to an interest of yours are we are going to include this as part of your portfolio for the final project. I gave some examples in the video but you would update the dropdown selector to give more information. One example would be to change the page to be about your favorite sports teams instead of the seasons. The selector would have options like baseball, football, basketball, etc and when a selector is chosen information about your favorite team for that sport would display. Example: Football is chosen so it would display a heading that says Pittsburgh Steelers, an image of their logo, change the background color to one of their colors and then show a summary paragraph about why you like them. 
+
+// Your page should now include the following for each selection:
+
+// Background Color
+// Topic Title
+// Topic Summary
+// Photo
+
+// Make sure to add styles to the page to make the image and text display properly on the page. Design is up to you. Make it look nice and clean.
+
+
+function seasonSelector(selectElem) {
+  var i = selectElem.selectedIndex;
+  if (i < 0) {
+    return;
+  }
+
+  var optionValue = selectElem.options[i].value;
+
+  if (optionValue === "spring") {
+    document.body.style.backgroundColor = "#33CC99";
+    document.getElementById("season-title").innerHTML = "Spring";
+    document.getElementById("season-description").innerHTML = "Spring, also known as springtime, is one of the four temperate seasons, succeeding winter and preceding summer.";
+    document.getElementById("season-image").src="./images/seasons/spring.jpg";
+    document.getElementById("season-image-caption").innerHTML = 'Photo by <a href="https://unsplash.com/@mitchel3uo?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Mitchell Luo</a> on <a href="https://unsplash.com/s/photos/spring?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>';
+  }
+  else if (optionValue === "summer") {
+    document.body.style.backgroundColor = "#FF0066";
+    document.getElementById("season-title").innerHTML = "Summer";
+    document.getElementById("season-description").innerHTML = "Summer is the hottest of the four temperate seasons, occurring after spring and before autumn.";
+    document.getElementById("season-image").src="./images/seasons/summer.jpg";
+    document.getElementById("season-image-caption").innerHTML = 'Photo by <a href="https://unsplash.com/@dreamsoftheoceans?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Linus Nylund</a> on <a href="https://unsplash.com/s/photos/summer?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>';
+  }
+  else if (optionValue === "autumn") {
+    document.body.style.backgroundColor = "#FF9933";
+    document.getElementById("season-title").innerHTML = "Autumn";
+    document.getElementById("season-description").innerHTML = "Autumn is the season when the duration of daylight becomes noticeably shorter and the temperature cools considerably.";
+    document.getElementById("season-image").src="./images/seasons/autumn.jpg";
+    document.getElementById("season-image-caption").innerHTML = 'Photo by <a href="https://unsplash.com/@jeremythomasphoto?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Jeremy Thomas</a> on <a href="https://unsplash.com/s/photos/autumn?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>';
+  }
+  else if (optionValue === "winter") {
+    document.body.style.backgroundColor = "#0099FF";
+    document.getElementById("season-title").innerHTML = "Winter";
+    document.getElementById("season-description").innerHTML = "Winter is the coldest season of the year in polar and temperate climates. It occurs after autumn and before spring.";
+    document.getElementById("season-image").src="./images/seasons/winter.jpg";
+    document.getElementById("season-image-caption").innerHTML = 'Photo by <a href="https://unsplash.com/@aaronburden?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Aaron Burden</a> on <a href="https://unsplash.com/s/photos/winter?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>';
+  }
+  else {
+    document.write("Something went wrong. Please refresh.");
+  }
+}
+
+
+</script>
+
+
+
+
+</body>
+
+</html>

@@ -10,7 +10,7 @@
 
     <h3>Seasons JavaScript Application</h3>
     <p>This is an application that changes the content of the page based on the season that is selected.</p>
-    <a href="/seasons">Change the Seasons</a>
+    <a class="button" href="/seasons">Change the Seasons</a>
 
 </div>
 
@@ -18,7 +18,7 @@
 
     <h3>Giving Tree Web Application</h3>
     <p>This is a web application that displays names on leaves as they go across the screen and lightboxes and image when touched.</p>
-    <a href="/touchscreen/">See the Images</a>
+    <a class="button" href="/touchscreen/">See the Images</a>
 
 </div>
 
@@ -26,6 +26,6 @@
 
     <h3>RPG</h3>
     <p>This is a sample web game created by RPG Maker MZ as a proof of concept of a game running on a live website. </p>
-    <a href="/game">Play the Game</a>
+    <a class="button" href="/game">Play the Game</a>
 
 </div>

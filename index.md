@@ -2,7 +2,7 @@
 
 <p>I am a web and mobile applications developer for NC State University. I am responsible for web and application development support for the central university website. I also create and maintain other key constituent sites, micro-sites and online marketing communication efforts as well as web development and strategy for the College of Education.</p>
 
-<p><a href="/about">Learn More About Me</a></p>
+<p><a class="button" href="/about">Learn More About Me</a></p>
 
 <h2>Portfolio</h2>
 

@@ -1,4 +1,135 @@
 
+<header class="main-header {% if page.cover %}" style="background-image: url({{ page.cover }}) {%else%}no-cover{% endif %}">
+  <nav class="main-nav overlay clearfix">
+          {% if page.logo %}
+              <a class="blog-logo" href="{{ site.baseurl }}">
+                  <img src="{{ page.logo }}" alt="Blog Logo" />
+              </a>
+          {% endif %}
+      <a class="subscribe-button icon-feed" href="{{'feed.xml' | relative_url }} ">Subscribe</a>
+  </nav>
+  <div class="vertical">
+      <div class="main-header-content inner">
+          <h1 class="page-title">{{ site.name }}</h1>
+          <h2 class="page-description">
+              {% if site.description %} {{ site.description }}. {% endif %}
+              {% if page.about %} <a href='{{page.about | relative_url}}'> About me </a> {% endif %}
+          </h2>
+      </div>
+  </div>
+  <a class="scroll-down icon-arrow-left" href="#content" data-offset="-45"><span class="hidden">Scroll Down</span></a>
+</header>
+
+
+<p><strong>Web and Mobile Applications Developer</strong></p>
+
+<p>I am a web and mobile applications developer for NC State University. I am responsible for web and application development support for the central university website. I also create and maintain other key constituent sites, micro-sites and online marketing communication efforts as well as web development and strategy for the College of Education.</p>
+
+<p><a class="button" href="/about">Learn More About Me</a></p>
+
+<h2>Portfolio</h2>
+
+<div class="portfolio-card">
+
+  <h3>Seasons JavaScript Application</h3>
+  <p>This is an application that changes the content of the page based on the season that is selected.</p>
+  <a class="button" href="/seasons">Change the Seasons</a>
+
+</div>
+
+<div class="portfolio-card">
+
+  <h3>Giving Tree Web Application</h3>
+  <p>This is a web application that displays names on leaves as they go across the screen and lightboxes and image when touched.</p>
+  <a class="button" href="/touchscreen/">See the Images</a>
+
+</div>
+
+<div class="portfolio-card">
+
+  <h3>RPG</h3>
+  <p>This is a sample web game created by RPG Maker MZ as a proof of concept of a game running on a live website. </p>
+  <a class="button" href="/game">Play the Game</a>
+
+</div>
+
+
+
+
+
+
+
+<main id="content" class="content" role="main">
+
+  <p><strong>Web and Mobile Applications Developer</strong></p>
+
+<p>I am a web and mobile applications developer for NC State University. I am responsible for web and application development support for the central university website. I also create and maintain other key constituent sites, micro-sites and online marketing communication efforts as well as web development and strategy for the College of Education.</p>
+
+<p><a class="button" href="/about">Learn More About Me</a></p>
+
+<h2>Portfolio</h2>
+
+<div class="portfolio-card">
+
+  <h3>Seasons JavaScript Application</h3>
+  <p>This is an application that changes the content of the page based on the season that is selected.</p>
+  <a class="button" href="/seasons">Change the Seasons</a>
+
+</div>
+
+<div class="portfolio-card">
+
+  <h3>Giving Tree Web Application</h3>
+  <p>This is a web application that displays names on leaves as they go across the screen and lightboxes and image when touched.</p>
+  <a class="button" href="/touchscreen/">See the Images</a>
+
+</div>
+
+<div class="portfolio-card">
+
+  <h3>RPG</h3>
+  <p>This is a sample web game created by RPG Maker MZ as a proof of concept of a game running on a live website. </p>
+  <a class="button" href="/game">Play the Game</a>
+
+</div>
+
+
+
+
+  <div class="extra-pagination inner">
+      {% include pagination.html %}
+  </div>
+
+  {% for post in paginator.posts %}
+
+  <article class="post">
+      <header class="post-header">
+          <h2 class="post-title"><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h2>
+      </header>
+      <section class="post-excerpt">
+          {{ post.excerpt }} <a class="read-more" href="{{ post.url | relative_url }}">&raquo;</a>
+      </section>
+      <footer class="post-meta">
+          {% if site.author %}
+              <img class="author-thumb" src="{{'/assets/images/profile.png' | relative_url}}" alt="Author's profile picture" nopin="nopin" />
+              {{ site.author }}
+          {% endif %}
+          {% if post.categories.size > 0 %} 
+              {{ post.categories | array_to_sentence_string | prepend: 'on ' }} 
+          {% endif %}
+          <time class="post-date" datetime="{{ post.date | date:"%Y-%m-%d" }}">
+              {{ post.date | date_to_string }}
+          </time> 
+      </footer>
+  </article>
+
+  {% endfor %}
+
+  {% include pagination.html %}
+
+</main>
+
+
 <!DOCTYPE html>
 <html lang="en-US">
   <head>

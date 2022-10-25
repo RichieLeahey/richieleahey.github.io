@@ -185,7 +185,6 @@ plugins:
   - jekyll-paginate-v2
   - jekyll-sitemap
   - jekyll-target-blank
-  - jekyll-twitter-plugin
   - jemoji
 
 # Sitemap settings

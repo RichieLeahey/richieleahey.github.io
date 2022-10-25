@@ -117,10 +117,6 @@ permalink: /blog/:year/:title/
 pagination:
   enabled: true
 
-# Comments
-disqus_shortname: al-folio # put your disqus shortname
-# https://help.disqus.com/en/articles/1717111-what-s-a-shortname
-
 # External sources.
 # If you have blog posts published on medium.com or other exteranl sources,
 # you can display them in your blog by adding a link to the RSS feed.
@@ -176,14 +172,9 @@ keep_files:
 
 # Plug-ins
 plugins:
-  - jekyll-archives
-  - jekyll-email-protect
   - jekyll-feed
-  - jekyll-imagemagick
-  - jekyll-minifier
-  - jekyll-paginate-v2
+  - jekyll-paginate
   - jekyll-sitemap
-  - jekyll-target-blank
   - jemoji
 
 # Sitemap settings
@@ -192,53 +183,6 @@ defaults:
       path: "assets/**/*.*"
     values:
       sitemap: false
-
-# -----------------------------------------------------------------------------
-# Jekyll Minifier
-# -----------------------------------------------------------------------------
-
-jekyll-minifier:
-  exclude: ['robots.txt']
-  uglifier_args:
-    harmony: true
-
-# -----------------------------------------------------------------------------
-# Jekyll Archives
-# -----------------------------------------------------------------------------
-
-jekyll-archives:
-  enabled: [year, tags, categories] # enables year, tag and category archives (remove if you need to disable one of them).
-  layouts:
-    year: archive-year
-    tag: archive-tag
-    category: archive-category
-  permalinks:
-    year: '/blog/:year/'
-    tag: '/blog/tag/:name/'
-    category: '/blog/category/:name/'
-
-display_tags: ['formatting', 'images', 'links', 'math', 'code'] # this tags will be dispalyed on the front page of your blog
-
-
-# -----------------------------------------------------------------------------
-# Responsive WebP Images
-# -----------------------------------------------------------------------------
-
-imagemagick:
-  enabled: true # enables responsive images for your site (recomended, see https://github.com/alshedivat/al-folio/issues/537)
-  widths:
-    - 480
-    - 800
-    - 1400
-  input_directories:
-    - assets/img/
-  input_formats:
-    - ".jpg"
-    - ".jpeg"
-    - ".png"
-    - ".tiff"
-  output_formats:
-    webp: "-resize 800x"
 
 # -----------------------------------------------------------------------------
 # Optional Features

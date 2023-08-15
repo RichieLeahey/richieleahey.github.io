@@ -1,0 +1,1186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://leaheymedia.com/wp-content/plugins/seriously-simple-podcasting/templates/feed-stylesheet.xsl"?><rss version="2.0"
+	 xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	 xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	 xmlns:dc="http://purl.org/dc/elements/1.1/"
+	 xmlns:atom="http://www.w3.org/2005/Atom"
+	 xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	 xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	 xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+	 xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
+	 xmlns:podcast="https://podcastindex.org/namespace/1.0"
+	>
+		<channel>
+		<title>Richie Leahey&#039;s Dad Strength</title>
+		<atom:link href="https://leaheymedia.com/feed/podcast/dad-strength/" rel="self" type="application/rss+xml"/>
+		<link>https://leaheymedia.com/series/dad-strength/</link>
+		<description>Richie Leahey chats about the joys of parenthood. He talks about his experiences as a first-time parent and covers topics essential for fatherhood. Becoming a first-time parent is a rite of passage for anyone, male or female, and it can be a daunting experience. Richie provides a lighthearted talk through the life changing event of becoming a parent.</description>
+		<lastBuildDate>Sat, 06 Aug 2022 01:21:17 +0000</lastBuildDate>
+		<language>en-US</language>
+		<copyright>© 2021 Leahey Media</copyright>
+		<itunes:subtitle></itunes:subtitle>
+		<itunes:author>Leahey Media LLC</itunes:author>
+		<itunes:type>serial</itunes:type>
+		<itunes:summary>Richie Leahey chats about the joys of parenthood. He talks about his experiences as a first-time parent and covers topics essential for fatherhood. Becoming a first-time parent is a rite of passage for anyone, male or female, and it can be a daunting experience. Richie provides a lighthearted talk through the life changing event of becoming a parent.</itunes:summary>
+		<itunes:owner>
+			<itunes:name>Leahey Media LLC</itunes:name>
+			<itunes:email>support@leaheymedia.com</itunes:email>
+		</itunes:owner>
+		<itunes:explicit>clean</itunes:explicit>
+					<itunes:complete>yes</itunes:complete>
+		<itunes:image href="https://leaheymedia.com/wp-content/uploads/dad-strength.jpg"></itunes:image>
+			<image>
+				<url>https://leaheymedia.com/wp-content/uploads/dad-strength.jpg</url>
+				<title>Richie Leahey&#039;s Dad Strength</title>
+				<link>https://leaheymedia.com/</link>
+			</image>
+		<itunes:category text="Kids &amp; Family">
+			<itunes:category text="Parenting"></itunes:category>
+		</itunes:category>
+		<podcast:locked owner="support@leaheymedia.com">yes</podcast:locked>
+		<podcast:guid>3259d131-58ef-5da0-967a-e399569c07e6</podcast:guid>
+		
+		<!-- podcast_generator="SSP by Castos/2.22.0" Seriously Simple Podcasting plugin for WordPress (https://wordpress.org/plugins/seriously-simple-podcasting/) -->
+		<generator>https://wordpress.org/?v=6.2.2</generator>
+
+<item>
+	<title>050 Finale &#8211; Thanks for Listening and Enjoy Being a Parent</title>
+	<link>https://leaheymedia.com/podcast/050-finale-thanks-for-listening-and-enjoy-being-a-parent/</link>
+	<pubDate>Fri, 18 Aug 2017 22:00:54 +0000</pubDate>
+	<dc:creator><![CDATA[Leahey Media LLC]]></dc:creator>
+	<guid isPermaLink="false">https://leaheymedia.com/?post_type=podcast&#038;p=111</guid>
+	<description><![CDATA[<p>Finale - Thanks for Listening and Enjoy Being a Parent</p>]]></description>
+	<itunes:subtitle><![CDATA[Finale - Thanks for Listening and Enjoy Being a Parent]]></itunes:subtitle>
+	<content:encoded><![CDATA[<p>Finale - Thanks for Listening and Enjoy Being a Parent</p>]]></content:encoded>
+	<enclosure url="https://dts.podtrac.com/redirect.mp3/leaheymedia.com/podcast-download/111/050-finale-thanks-for-listening-and-enjoy-being-a-parent.mp3" length="10238466" type="audio/mpeg"></enclosure>
+	<itunes:summary><![CDATA[Finale - Thanks for Listening and Enjoy Being a Parent]]></itunes:summary>
+	<itunes:explicit>clean</itunes:explicit>
+	<itunes:block>no</itunes:block>
+	<itunes:duration>15:00</itunes:duration>
+	<itunes:author><![CDATA[Leahey Media LLC]]></itunes:author>	<googleplay:description><![CDATA[Finale - Thanks for Listening and Enjoy Being a Parent]]></googleplay:description>
+	<googleplay:explicit>No</googleplay:explicit>
+	<googleplay:block>no</googleplay:block>
+</item>
+
+<item>
+	<title>049 Tips on Researching the Latest Parenting Advice</title>
+	<link>https://leaheymedia.com/podcast/049-tips-on-researching-the-latest-parenting-advice/</link>
+	<pubDate>Fri, 11 Aug 2017 23:57:58 +0000</pubDate>
+	<dc:creator><![CDATA[Leahey Media LLC]]></dc:creator>
+	<guid isPermaLink="false">https://leaheymedia.com/?post_type=podcast&#038;p=110</guid>
+	<description><![CDATA[<p>Tips on Researching the Latest Parenting Advice</p>]]></description>
+	<itunes:subtitle><![CDATA[Tips on Researching the Latest Parenting Advice]]></itunes:subtitle>
+	<content:encoded><![CDATA[<p>Tips on Researching the Latest Parenting Advice</p>]]></content:encoded>
+	<enclosure url="https://dts.podtrac.com/redirect.mp3/leaheymedia.com/podcast-download/110/049-tips-on-researching-the-latest-parenting-advice.mp3" length="13614727" type="audio/mpeg"></enclosure>
+	<itunes:summary><![CDATA[Tips on Researching the Latest Parenting Advice]]></itunes:summary>
+	<itunes:explicit>clean</itunes:explicit>
+	<itunes:block>no</itunes:block>
+	<itunes:duration>15:00</itunes:duration>
+	<itunes:author><![CDATA[Leahey Media LLC]]></itunes:author>	<googleplay:description><![CDATA[Tips on Researching the Latest Parenting Advice]]></googleplay:description>
+	<googleplay:explicit>No</googleplay:explicit>
+	<googleplay:block>no</googleplay:block>
+</item>
+
+<item>
+	<title>048 Using the Internet to Learn About Parenting</title>
+	<link>https://leaheymedia.com/podcast/048-using-the-internet-to-learn-about-parenting/</link>
+	<pubDate>Fri, 04 Aug 2017 23:03:36 +0000</pubDate>
+	<dc:creator><![CDATA[Leahey Media LLC]]></dc:creator>
+	<guid isPermaLink="false">https://leaheymedia.com/?post_type=podcast&#038;p=109</guid>
+	<description><![CDATA[<p>Using the Internet to Learn About Parenting</p>]]></description>
+	<itunes:subtitle><![CDATA[Using the Internet to Learn About Parenting]]></itunes:subtitle>
+	<content:encoded><![CDATA[<p>Using the Internet to Learn About Parenting</p>]]></content:encoded>
+	<enclosure url="https://dts.podtrac.com/redirect.mp3/leaheymedia.com/podcast-download/109/048-using-the-internet-to-learn-about-parenting.mp3" length="10856606" type="audio/mpeg"></enclosure>
+	<itunes:summary><![CDATA[Using the Internet to Learn About Parenting]]></itunes:summary>
+	<itunes:explicit>clean</itunes:explicit>
+	<itunes:block>no</itunes:block>
+	<itunes:duration>15:00</itunes:duration>
+	<itunes:author><![CDATA[Leahey Media LLC]]></itunes:author>	<googleplay:description><![CDATA[Using the Internet to Learn About Parenting]]></googleplay:description>
+	<googleplay:explicit>No</googleplay:explicit>
+	<googleplay:block>no</googleplay:block>
+</item>
+
+<item>
+	<title>047 Behind the Scenes</title>
+	<link>https://leaheymedia.com/podcast/047-behind-the-scenes/</link>
+	<pubDate>Fri, 28 Jul 2017 22:31:14 +0000</pubDate>
+	<dc:creator><![CDATA[Leahey Media LLC]]></dc:creator>
+	<guid isPermaLink="false">https://leaheymedia.com/?post_type=podcast&#038;p=108</guid>
+	<description><![CDATA[<p>Behind the Scenes</p>]]></description>
+	<itunes:subtitle><![CDATA[Behind the Scenes]]></itunes:subtitle>
+	<content:encoded><![CDATA[<p>Behind the Scenes</p>]]></content:encoded>
+	<enclosure url="https://dts.podtrac.com/redirect.mp3/leaheymedia.com/podcast-download/108/047-behind-the-scenes.mp3" length="12235401" type="audio/mpeg"></enclosure>
+	<itunes:summary><![CDATA[Behind the Scenes]]></itunes:summary>
+	<itunes:explicit>clean</itunes:explicit>
+	<itunes:block>no</itunes:block>
+	<itunes:duration>15:00</itunes:duration>
+	<itunes:author><![CDATA[Leahey Media LLC]]></itunes:author>	<googleplay:description><![CDATA[Behind the Scenes]]></googleplay:description>
+	<googleplay:explicit>No</googleplay:explicit>
+	<googleplay:block>no</googleplay:block>
+</item>
+
+<item>
+	<title>046 Essential Items for New Parents List Recap</title>
+	<link>https://leaheymedia.com/podcast/046-essential-items-for-new-parents-list-recap/</link>
+	<pubDate>Fri, 21 Jul 2017 22:37:53 +0000</pubDate>
+	<dc:creator><![CDATA[Leahey Media LLC]]></dc:creator>
+	<guid isPermaLink="false">https://leaheymedia.com/?post_type=podcast&#038;p=107</guid>
+	<description><![CDATA[<p>Essential Items for New Parents List Recap</p>]]></description>
+	<itunes:subtitle><![CDATA[Essential Items for New Parents List Recap]]></itunes:subtitle>
+	<content:encoded><![CDATA[<p>Essential Items for New Parents List Recap</p>]]></content:encoded>
+	<enclosure url="https://dts.podtrac.com/redirect.mp3/leaheymedia.com/podcast-download/107/046-essential-items-for-new-parents-list-recap.mp3" length="11688761" type="audio/mpeg"></enclosure>
+	<itunes:summary><![CDATA[Essential Items for New Parents List Recap]]></itunes:summary>
+	<itunes:explicit>clean</itunes:explicit>
+	<itunes:block>no</itunes:block>
+	<itunes:duration>15:00</itunes:duration>
+	<itunes:author><![CDATA[Leahey Media LLC]]></itunes:author>	<googleplay:description><![CDATA[Essential Items for New Parents List Recap]]></googleplay:description>
+	<googleplay:explicit>No</googleplay:explicit>
+	<googleplay:block>no</googleplay:block>
+</item>
+
+<item>
+	<title>045 Strollers</title>
+	<link>https://leaheymedia.com/podcast/045-strollers/</link>
+	<pubDate>Fri, 14 Jul 2017 22:01:11 +0000</pubDate>
+	<dc:creator><![CDATA[Leahey Media LLC]]></dc:creator>
+	<guid isPermaLink="false">https://leaheymedia.com/?post_type=podcast&#038;p=106</guid>
+	<description><![CDATA[<p>Strollers</p>]]></description>
+	<itunes:subtitle><![CDATA[Strollers]]></itunes:subtitle>
+	<content:encoded><![CDATA[<p>Strollers</p>]]></content:encoded>
+	<enclosure url="https://dts.podtrac.com/redirect.mp3/leaheymedia.com/podcast-download/106/045-strollers.mp3" length="10856538" type="audio/mpeg"></enclosure>
+	<itunes:summary><![CDATA[Strollers]]></itunes:summary>
+	<itunes:explicit>clean</itunes:explicit>
+	<itunes:block>no</itunes:block>
+	<itunes:duration>15:00</itunes:duration>
+	<itunes:author><![CDATA[Leahey Media LLC]]></itunes:author>	<googleplay:description><![CDATA[Strollers]]></googleplay:description>
+	<googleplay:explicit>No</googleplay:explicit>
+	<googleplay:block>no</googleplay:block>
+</item>
+
+<item>
+	<title>044 Car Seats</title>
+	<link>https://leaheymedia.com/podcast/044-car-seats/</link>
+	<pubDate>Fri, 07 Jul 2017 22:28:05 +0000</pubDate>
+	<dc:creator><![CDATA[Leahey Media LLC]]></dc:creator>
+	<guid isPermaLink="false">https://leaheymedia.com/?post_type=podcast&#038;p=105</guid>
+	<description><![CDATA[<p>Car Seats</p>]]></description>
+	<itunes:subtitle><![CDATA[Car Seats]]></itunes:subtitle>
+	<content:encoded><![CDATA[<p>Car Seats</p>]]></content:encoded>
+	<enclosure url="https://dts.podtrac.com/redirect.mp3/leaheymedia.com/podcast-download/105/044-car-seats.mp3" length="21104479" type="audio/mpeg"></enclosure>
+	<itunes:summary><![CDATA[Car Seats]]></itunes:summary>
+	<itunes:explicit>clean</itunes:explicit>
+	<itunes:block>no</itunes:block>
+	<itunes:duration>15:00</itunes:duration>
+	<itunes:author><![CDATA[Leahey Media LLC]]></itunes:author>	<googleplay:description><![CDATA[Car Seats]]></googleplay:description>
+	<googleplay:explicit>No</googleplay:explicit>
+	<googleplay:block>no</googleplay:block>
+</item>
+
+<item>
+	<title>043 Teethers</title>
+	<link>https://leaheymedia.com/podcast/043-teethers/</link>
+	<pubDate>Fri, 30 Jun 2017 18:38:34 +0000</pubDate>
+	<dc:creator><![CDATA[Leahey Media LLC]]></dc:creator>
+	<guid isPermaLink="false">https://leaheymedia.com/?post_type=podcast&#038;p=104</guid>
+	<description><![CDATA[<p>Teethers</p>]]></description>
+	<itunes:subtitle><![CDATA[Teethers]]></itunes:subtitle>
+	<content:encoded><![CDATA[<p>Teethers</p>]]></content:encoded>
+	<enclosure url="https://dts.podtrac.com/redirect.mp3/leaheymedia.com/podcast-download/104/043-teethers.mp3" length="12425555" type="audio/mpeg"></enclosure>
+	<itunes:summary><![CDATA[Teethers]]></itunes:summary>
+	<itunes:explicit>clean</itunes:explicit>
+	<itunes:block>no</itunes:block>
+	<itunes:duration>15:00</itunes:duration>
+	<itunes:author><![CDATA[Leahey Media LLC]]></itunes:author>	<googleplay:description><![CDATA[Teethers]]></googleplay:description>
+	<googleplay:explicit>No</googleplay:explicit>
+	<googleplay:block>no</googleplay:block>
+</item>
+
+<item>
+	<title>042 Stacking Rings</title>
+	<link>https://leaheymedia.com/podcast/042-stacking-rings/</link>
+	<pubDate>Fri, 23 Jun 2017 21:59:33 +0000</pubDate>
+	<dc:creator><![CDATA[Leahey Media LLC]]></dc:creator>
+	<guid isPermaLink="false">https://leaheymedia.com/?post_type=podcast&#038;p=103</guid>
+	<description><![CDATA[<p>Stacking Rings</p>]]></description>
+	<itunes:subtitle><![CDATA[Stacking Rings]]></itunes:subtitle>
+	<content:encoded><![CDATA[<p>Stacking Rings</p>]]></content:encoded>
+	<enclosure url="https://dts.podtrac.com/redirect.mp3/leaheymedia.com/podcast-download/103/042-stacking-rings.mp3" length="11593410" type="audio/mpeg"></enclosure>
+	<itunes:summary><![CDATA[Stacking Rings]]></itunes:summary>
+	<itunes:explicit>clean</itunes:explicit>
+	<itunes:block>no</itunes:block>
+	<itunes:duration>15:00</itunes:duration>
+	<itunes:author><![CDATA[Leahey Media LLC]]></itunes:author>	<googleplay:description><![CDATA[Stacking Rings]]></googleplay:description>
+	<googleplay:explicit>No</googleplay:explicit>
+	<googleplay:block>no</googleplay:block>
+</item>
+
+<item>
+	<title>041 Musical Toys with Flashing Lights</title>
+	<link>https://leaheymedia.com/podcast/041-musical-toys-with-flashing-lights/</link>
+	<pubDate>Fri, 16 Jun 2017 23:44:03 +0000</pubDate>
+	<dc:creator><![CDATA[Leahey Media LLC]]></dc:creator>
+	<guid isPermaLink="false">https://leaheymedia.com/?post_type=podcast&#038;p=102</guid>
+	<description><![CDATA[<p>Musical Toys with Flashing Lights</p>]]></description>
+	<itunes:subtitle><![CDATA[Musical Toys with Flashing Lights]]></itunes:subtitle>
+	<content:encoded><![CDATA[<p>Musical Toys with Flashing Lights</p>]]></content:encoded>
+	<enclosure url="https://dts.podtrac.com/redirect.mp3/leaheymedia.com/podcast-download/102/041-musical-toys-with-flashing-lights.mp3" length="12092909" type="audio/mpeg"></enclosure>
+	<itunes:summary><![CDATA[Musical Toys with Flashing Lights]]></itunes:summary>
+	<itunes:explicit>clean</itunes:explicit>
+	<itunes:block>no</itunes:block>
+	<itunes:duration>15:00</itunes:duration>
+	<itunes:author><![CDATA[Leahey Media LLC]]></itunes:author>	<googleplay:description><![CDATA[Musical Toys with Flashing Lights]]></googleplay:description>
+	<googleplay:explicit>No</googleplay:explicit>
+	<googleplay:block>no</googleplay:block>
+</item>
+
+<item>
+	<title>040 Diaper Rash Ointment</title>
+	<link>https://leaheymedia.com/podcast/040-diaper-rash-ointment/</link>
+	<pubDate>Fri, 09 Jun 2017 22:36:03 +0000</pubDate>
+	<dc:creator><![CDATA[Leahey Media LLC]]></dc:creator>
+	<guid isPermaLink="false">https://leaheymedia.com/?post_type=podcast&#038;p=101</guid>
+	<description><![CDATA[<p>Richie Leahey takes a look at diaper rash ointments and adds them to the Dad Strength ranking chart.</p>]]></description>
+	<itunes:subtitle><![CDATA[Richie Leahey takes a look at diaper rash ointments and adds them to the Dad Strength ranking chart.]]></itunes:subtitle>
+	<content:encoded><![CDATA[<p>Richie Leahey takes a look at diaper rash ointments and adds them to the Dad Strength ranking chart.</p>]]></content:encoded>
+	<enclosure url="https://dts.podtrac.com/redirect.mp3/leaheymedia.com/podcast-download/101/040-diaper-rash-ointment.mp3" length="11569612" type="audio/mpeg"></enclosure>
+	<itunes:summary><![CDATA[Richie Leahey takes a look at diaper rash ointments and adds them to the Dad Strength ranking chart.]]></itunes:summary>
+	<itunes:explicit>clean</itunes:explicit>
+	<itunes:block>no</itunes:block>
+	<itunes:duration>11:07</itunes:duration>
+	<itunes:author><![CDATA[Leahey Media LLC]]></itunes:author>	<googleplay:description><![CDATA[Richie Leahey takes a look at diaper rash ointments and adds them to the Dad Strength ranking chart.]]></googleplay:description>
+	<googleplay:explicit>No</googleplay:explicit>
+	<googleplay:block>no</googleplay:block>
+</item>
+
+<item>
+	<title>039 Baby Monitors</title>
+	<link>https://leaheymedia.com/podcast/039-baby-monitors/</link>
+	<pubDate>Fri, 02 Jun 2017 23:38:38 +0000</pubDate>
+	<dc:creator><![CDATA[Leahey Media LLC]]></dc:creator>
+	<guid isPermaLink="false">https://leaheymedia.com/?post_type=podcast&#038;p=99</guid>
+	<description><![CDATA[<p>Richie Leahey takes a look at baby monitors and adds them to the Dad Strength ranking chart.</p>]]></description>
+	<itunes:subtitle><![CDATA[Richie Leahey takes a look at baby monitors and adds them to the Dad Strength ranking chart.]]></itunes:subtitle>
+	<content:encoded><![CDATA[<p>Richie Leahey takes a look at baby monitors and adds them to the Dad Strength ranking chart.</p>]]></content:encoded>
+	<enclosure url="https://dts.podtrac.com/redirect.mp3/leaheymedia.com/podcast-download/99/039-baby-monitors.mp3" length="13355120" type="audio/mpeg"></enclosure>
+	<itunes:summary><![CDATA[Richie Leahey takes a look at baby monitors and adds them to the Dad Strength ranking chart.]]></itunes:summary>
+	<itunes:explicit>clean</itunes:explicit>
+	<itunes:block>no</itunes:block>
+	<itunes:duration>12:59</itunes:duration>
+	<itunes:author><![CDATA[Leahey Media LLC]]></itunes:author>	<googleplay:description><![CDATA[Richie Leahey takes a look at baby monitors and adds them to the Dad Strength ranking chart.]]></googleplay:description>
+	<googleplay:explicit>No</googleplay:explicit>
+	<googleplay:block>no</googleplay:block>
+</item>
+
+<item>
+	<title>038 Bassinet</title>
+	<link>https://leaheymedia.com/podcast/038-bassinet/</link>
+	<pubDate>Fri, 26 May 2017 23:21:43 +0000</pubDate>
+	<dc:creator><![CDATA[Leahey Media LLC]]></dc:creator>
+	<guid isPermaLink="false">https://leaheymedia.com/?post_type=podcast&#038;p=98</guid>
+	<description><![CDATA[<p>Richie Leahey takes a look at bassinets and adds them to the Dad Strength ranking chart.</p>]]></description>
+	<itunes:subtitle><![CDATA[Richie Leahey takes a look at bassinets and adds them to the Dad Strength ranking chart.]]></itunes:subtitle>
+	<content:encoded><![CDATA[<p>Richie Leahey takes a look at bassinets and adds them to the Dad Strength ranking chart.</p>]]></content:encoded>
+	<enclosure url="https://dts.podtrac.com/redirect.mp3/leaheymedia.com/podcast-download/98/038-bassinet.mp3" length="11926525" type="audio/mpeg"></enclosure>
+	<itunes:summary><![CDATA[Richie Leahey takes a look at bassinets and adds them to the Dad Strength ranking chart.]]></itunes:summary>
+	<itunes:explicit>clean</itunes:explicit>
+	<itunes:block>no</itunes:block>
+	<itunes:duration>11:30</itunes:duration>
+	<itunes:author><![CDATA[Leahey Media LLC]]></itunes:author>	<googleplay:description><![CDATA[Richie Leahey takes a look at bassinets and adds them to the Dad Strength ranking chart.]]></googleplay:description>
+	<googleplay:explicit>No</googleplay:explicit>
+	<googleplay:block>no</googleplay:block>
+</item>
+
+<item>
+	<title>037 Bibs</title>
+	<link>https://leaheymedia.com/podcast/037-bibs/</link>
+	<pubDate>Fri, 19 May 2017 16:03:45 +0000</pubDate>
+	<dc:creator><![CDATA[Leahey Media LLC]]></dc:creator>
+	<guid isPermaLink="false">https://leaheymedia.com/?post_type=podcast&#038;p=96</guid>
+	<description><![CDATA[<p>Richie Leahey takes a look at bibs and adds them to the Dad Strength ranking chart.</p>]]></description>
+	<itunes:subtitle><![CDATA[Richie Leahey takes a look at bibs and adds them to the Dad Strength ranking chart.]]></itunes:subtitle>
+	<content:encoded><![CDATA[<p>Richie Leahey takes a look at bibs and adds them to the Dad Strength ranking chart.</p>]]></content:encoded>
+	<enclosure url="https://dts.podtrac.com/redirect.mp3/leaheymedia.com/podcast-download/96/037-bibs.mp3" length="11.13" type="audio/mpeg"></enclosure>
+	<itunes:summary><![CDATA[Richie Leahey takes a look at bibs and adds them to the Dad Strength ranking chart.]]></itunes:summary>
+	<itunes:explicit>clean</itunes:explicit>
+	<itunes:block>no</itunes:block>
+	<itunes:duration>11:13</itunes:duration>
+	<itunes:author><![CDATA[Leahey Media LLC]]></itunes:author>	<googleplay:description><![CDATA[Richie Leahey takes a look at bibs and adds them to the Dad Strength ranking chart.]]></googleplay:description>
+	<googleplay:explicit>No</googleplay:explicit>
+	<googleplay:block>no</googleplay:block>
+</item>
+
+<item>
+	<title>036 Bottle Warmer</title>
+	<link>https://leaheymedia.com/podcast/036-bottle-warmer/</link>
+	<pubDate>Fri, 12 May 2017 23:31:17 +0000</pubDate>
+	<dc:creator><![CDATA[Leahey Media LLC]]></dc:creator>
+	<guid isPermaLink="false">https://leaheymedia.com/?post_type=podcast&#038;p=95</guid>
+	<description><![CDATA[<p>Richie Leahey takes a look at bottle warmers and adds them to the Dad Strength ranking chart.</p>]]></description>
+	<itunes:subtitle><![CDATA[Richie Leahey takes a look at bottle warmers and adds them to the Dad Strength ranking chart.]]></itunes:subtitle>
+	<content:encoded><![CDATA[<p>Richie Leahey takes a look at bottle warmers and adds them to the Dad Strength ranking chart.</p>]]></content:encoded>
+	<enclosure url="https://dts.podtrac.com/redirect.mp3/leaheymedia.com/podcast-download/95/036-bottle-warmer.mp3" length="12.83" type="audio/mpeg"></enclosure>
+	<itunes:summary><![CDATA[Richie Leahey takes a look at bottle warmers and adds them to the Dad Strength ranking chart.]]></itunes:summary>
+	<itunes:explicit>clean</itunes:explicit>
+	<itunes:block>no</itunes:block>
+	<itunes:duration>13:05</itunes:duration>
+	<itunes:author><![CDATA[Leahey Media LLC]]></itunes:author>	<googleplay:description><![CDATA[Richie Leahey takes a look at bottle warmers and adds them to the Dad Strength ranking chart.]]></googleplay:description>
+	<googleplay:explicit>No</googleplay:explicit>
+	<googleplay:block>no</googleplay:block>
+</item>
+
+<item>
+	<title>035 Boppy Lounger</title>
+	<link>https://leaheymedia.com/podcast/035-boppy-lounger/</link>
+	<pubDate>Sat, 06 May 2017 00:19:57 +0000</pubDate>
+	<dc:creator><![CDATA[Leahey Media LLC]]></dc:creator>
+	<guid isPermaLink="false">https://leaheymedia.com/?post_type=podcast&#038;p=94</guid>
+	<description><![CDATA[<p>Richie Leahey takes a look at boppy loungers and adds them to the Dad Strength ranking chart.</p>]]></description>
+	<itunes:subtitle><![CDATA[Richie Leahey takes a look at boppy loungers and adds them to the Dad Strength ranking chart.]]></itunes:subtitle>
+	<content:encoded><![CDATA[<p>Richie Leahey takes a look at boppy loungers and adds them to the Dad Strength ranking chart.</p>]]></content:encoded>
+	<enclosure url="https://dts.podtrac.com/redirect.mp3/leaheymedia.com/podcast-download/94/035-boppy-lounger.mp3" length="12.64" type="audio/mpeg"></enclosure>
+	<itunes:summary><![CDATA[Richie Leahey takes a look at boppy loungers and adds them to the Dad Strength ranking chart.]]></itunes:summary>
+	<itunes:explicit>clean</itunes:explicit>
+	<itunes:block>no</itunes:block>
+	<itunes:duration>12:53</itunes:duration>
+	<itunes:author><![CDATA[Leahey Media LLC]]></itunes:author>	<googleplay:description><![CDATA[Richie Leahey takes a look at boppy loungers and adds them to the Dad Strength ranking chart.]]></googleplay:description>
+	<googleplay:explicit>No</googleplay:explicit>
+	<googleplay:block>no</googleplay:block>
+</item>
+
+<item>
+	<title>034 Baby Swings</title>
+	<link>https://leaheymedia.com/podcast/034-baby-swings/</link>
+	<pubDate>Fri, 28 Apr 2017 22:24:23 +0000</pubDate>
+	<dc:creator><![CDATA[Leahey Media LLC]]></dc:creator>
+	<guid isPermaLink="false">https://leaheymedia.com/?post_type=podcast&#038;p=93</guid>
+	<description><![CDATA[<p>Richie Leahey takes a look at baby swings and adds them to the Dad Strength ranking chart.</p>]]></description>
+	<itunes:subtitle><![CDATA[Richie Leahey takes a look at baby swings and adds them to the Dad Strength ranking chart.]]></itunes:subtitle>
+	<content:encoded><![CDATA[<p>Richie Leahey takes a look at baby swings and adds them to the Dad Strength ranking chart.</p>]]></content:encoded>
+	<enclosure url="https://dts.podtrac.com/redirect.mp3/leaheymedia.com/podcast-download/93/034-baby-swings.mp3" length="12.78" type="audio/mpeg"></enclosure>
+	<itunes:summary><![CDATA[Richie Leahey takes a look at baby swings and adds them to the Dad Strength ranking chart.]]></itunes:summary>
+	<itunes:explicit>clean</itunes:explicit>
+	<itunes:block>no</itunes:block>
+	<itunes:duration>13:02</itunes:duration>
+	<itunes:author><![CDATA[Leahey Media LLC]]></itunes:author>	<googleplay:description><![CDATA[Richie Leahey takes a look at baby swings and adds them to the Dad Strength ranking chart.]]></googleplay:description>
+	<googleplay:explicit>No</googleplay:explicit>
+	<googleplay:block>no</googleplay:block>
+</item>
+
+<item>
+	<title>033 Bath Tub Thermometer</title>
+	<link>https://leaheymedia.com/podcast/033-bath-tub-thermometer/</link>
+	<pubDate>Fri, 21 Apr 2017 22:53:05 +0000</pubDate>
+	<dc:creator><![CDATA[Leahey Media LLC]]></dc:creator>
+	<guid isPermaLink="false">https://leaheymedia.com/?post_type=podcast&#038;p=92</guid>
+	<description><![CDATA[<p>Richie Leahey takes a look at bath tub thermometers and adds them to the Dad Strength ranking chart.</p>]]></description>
+	<itunes:subtitle><![CDATA[Richie Leahey takes a look at bath tub thermometers and adds them to the Dad Strength ranking chart.]]></itunes:subtitle>
+	<content:encoded><![CDATA[<p>Richie Leahey takes a look at bath tub thermometers and adds them to the Dad Strength ranking chart.</p>]]></content:encoded>
+	<enclosure url="https://dts.podtrac.com/redirect.mp3/leaheymedia.com/podcast-download/92/033-bath-tub-thermometer.mp3" length="11.78" type="audio/mpeg"></enclosure>
+	<itunes:summary><![CDATA[Richie Leahey takes a look at bath tub thermometers and adds them to the Dad Strength ranking chart.]]></itunes:summary>
+	<itunes:explicit>clean</itunes:explicit>
+	<itunes:block>no</itunes:block>
+	<itunes:duration>11:56</itunes:duration>
+	<itunes:author><![CDATA[Leahey Media LLC]]></itunes:author>	<googleplay:description><![CDATA[Richie Leahey takes a look at bath tub thermometers and adds them to the Dad Strength ranking chart.]]></googleplay:description>
+	<googleplay:explicit>No</googleplay:explicit>
+	<googleplay:block>no</googleplay:block>
+</item>
+
+<item>
+	<title>032 Reusable Diapers</title>
+	<link>https://leaheymedia.com/podcast/032-reusable-diapers/</link>
+	<pubDate>Fri, 14 Apr 2017 15:56:51 +0000</pubDate>
+	<dc:creator><![CDATA[Leahey Media LLC]]></dc:creator>
+	<guid isPermaLink="false">https://leaheymedia.com/?post_type=podcast&#038;p=91</guid>
+	<description><![CDATA[<p>Richie Leahey takes a look at reusable diapers and adds them to the Dad Strength ranking chart.</p>]]></description>
+	<itunes:subtitle><![CDATA[Richie Leahey takes a look at reusable diapers and adds them to the Dad Strength ranking chart.]]></itunes:subtitle>
+	<content:encoded><![CDATA[<p>Richie Leahey takes a look at reusable diapers and adds them to the Dad Strength ranking chart.</p>]]></content:encoded>
+	<enclosure url="https://dts.podtrac.com/redirect.mp3/leaheymedia.com/podcast-download/91/032-reusable-diapers.mp3" length="12.62" type="audio/mpeg"></enclosure>
+	<itunes:summary><![CDATA[Richie Leahey takes a look at reusable diapers and adds them to the Dad Strength ranking chart.]]></itunes:summary>
+	<itunes:explicit>clean</itunes:explicit>
+	<itunes:block>no</itunes:block>
+	<itunes:duration>12:51</itunes:duration>
+	<itunes:author><![CDATA[Leahey Media LLC]]></itunes:author>	<googleplay:description><![CDATA[Richie Leahey takes a look at reusable diapers and adds them to the Dad Strength ranking chart.]]></googleplay:description>
+	<googleplay:explicit>No</googleplay:explicit>
+	<googleplay:block>no</googleplay:block>
+</item>
+
+<item>
+	<title>031 Changing Pads</title>
+	<link>https://leaheymedia.com/podcast/031-changing-pads/</link>
+	<pubDate>Fri, 07 Apr 2017 22:09:30 +0000</pubDate>
+	<dc:creator><![CDATA[Leahey Media LLC]]></dc:creator>
+	<guid isPermaLink="false">https://leaheymedia.com/?post_type=podcast&#038;p=89</guid>
+	<description><![CDATA[<p>Richie Leahey takes a look at changing pads and adds them to the Dad Strength ranking chart.</p>]]></description>
+	<itunes:subtitle><![CDATA[Richie Leahey takes a look at changing pads and adds them to the Dad Strength ranking chart.]]></itunes:subtitle>
+	<content:encoded><![CDATA[<p>Richie Leahey takes a look at changing pads and adds them to the Dad Strength ranking chart.</p>]]></content:encoded>
+	<enclosure url="https://dts.podtrac.com/redirect.mp3/leaheymedia.com/podcast-download/89/031-changing-pads.mp3" length="12.44" type="audio/mpeg"></enclosure>
+	<itunes:summary><![CDATA[Richie Leahey takes a look at changing pads and adds them to the Dad Strength ranking chart.]]></itunes:summary>
+	<itunes:explicit>clean</itunes:explicit>
+	<itunes:block>no</itunes:block>
+	<itunes:duration>12:40</itunes:duration>
+	<itunes:author><![CDATA[Leahey Media LLC]]></itunes:author>	<googleplay:description><![CDATA[Richie Leahey takes a look at changing pads and adds them to the Dad Strength ranking chart.]]></googleplay:description>
+	<googleplay:explicit>No</googleplay:explicit>
+	<googleplay:block>no</googleplay:block>
+</item>
+
+<item>
+	<title>030 Child Photography and Night Time Soothers</title>
+	<link>https://leaheymedia.com/podcast/030-child-photography-and-night-time-soothers/</link>
+	<pubDate>Fri, 31 Mar 2017 23:57:05 +0000</pubDate>
+	<dc:creator><![CDATA[Leahey Media LLC]]></dc:creator>
+	<guid isPermaLink="false">https://leaheymedia.com/?post_type=podcast&#038;p=88</guid>
+	<description><![CDATA[<p>Richie Leahey takes a look at night time soothers and adds them to the Dad Strength ranking chart.</p>]]></description>
+	<itunes:subtitle><![CDATA[Richie Leahey takes a look at night time soothers and adds them to the Dad Strength ranking chart.]]></itunes:subtitle>
+	<content:encoded><![CDATA[<p>Richie Leahey takes a look at night time soothers and adds them to the Dad Strength ranking chart.</p>]]></content:encoded>
+	<enclosure url="https://dts.podtrac.com/redirect.mp3/leaheymedia.com/podcast-download/88/030-child-photography-and-night-time-soothers.mp3" length="14.23" type="audio/mpeg"></enclosure>
+	<itunes:summary><![CDATA[Richie Leahey takes a look at night time soothers and adds them to the Dad Strength ranking chart.]]></itunes:summary>
+	<itunes:explicit>clean</itunes:explicit>
+	<itunes:block>no</itunes:block>
+	<itunes:duration>14:37</itunes:duration>
+	<itunes:author><![CDATA[Leahey Media LLC]]></itunes:author>	<googleplay:description><![CDATA[Richie Leahey takes a look at night time soothers and adds them to the Dad Strength ranking chart.]]></googleplay:description>
+	<googleplay:explicit>No</googleplay:explicit>
+	<googleplay:block>no</googleplay:block>
+</item>
+
+<item>
+	<title>029 Stuffed Animals</title>
+	<link>https://leaheymedia.com/podcast/029-stuffed-animals/</link>
+	<pubDate>Sat, 25 Mar 2017 01:36:44 +0000</pubDate>
+	<dc:creator><![CDATA[Leahey Media LLC]]></dc:creator>
+	<guid isPermaLink="false">https://leaheymedia.com/?post_type=podcast&#038;p=87</guid>
+	<description><![CDATA[<p>Richie Leahey takes a look at stuffed animals and adds them to the Dad Strength ranking chart.</p>]]></description>
+	<itunes:subtitle><![CDATA[Richie Leahey takes a look at stuffed animals and adds them to the Dad Strength ranking chart.]]></itunes:subtitle>
+	<content:encoded><![CDATA[<p>Richie Leahey takes a look at stuffed animals and adds them to the Dad Strength ranking chart.</p>]]></content:encoded>
+	<enclosure url="https://dts.podtrac.com/redirect.mp3/leaheymedia.com/podcast-download/87/029-stuffed-animals.mp3" length="13.2" type="audio/mpeg"></enclosure>
+	<itunes:summary><![CDATA[Richie Leahey takes a look at stuffed animals and adds them to the Dad Strength ranking chart.]]></itunes:summary>
+	<itunes:explicit>clean</itunes:explicit>
+	<itunes:block>no</itunes:block>
+	<itunes:duration>13:29</itunes:duration>
+	<itunes:author><![CDATA[Leahey Media LLC]]></itunes:author>	<googleplay:description><![CDATA[Richie Leahey takes a look at stuffed animals and adds them to the Dad Strength ranking chart.]]></googleplay:description>
+	<googleplay:explicit>No</googleplay:explicit>
+	<googleplay:block>no</googleplay:block>
+</item>
+
+<item>
+	<title>028 Baby Wipe Warmer</title>
+	<link>https://leaheymedia.com/podcast/028-baby-wipe-warmer/</link>
+	<pubDate>Sat, 18 Mar 2017 01:39:19 +0000</pubDate>
+	<dc:creator><![CDATA[Leahey Media LLC]]></dc:creator>
+	<guid isPermaLink="false">https://leaheymedia.com/?post_type=podcast&#038;p=86</guid>
+	<description><![CDATA[<p>Richie Leahey takes a look at baby wipe warmers and adds them to the Dad Strength ranking chart.</p>]]></description>
+	<itunes:subtitle><![CDATA[Richie Leahey takes a look at baby wipe warmers and adds them to the Dad Strength ranking chart.]]></itunes:subtitle>
+	<content:encoded><![CDATA[<p>Richie Leahey takes a look at baby wipe warmers and adds them to the Dad Strength ranking chart.</p>]]></content:encoded>
+	<enclosure url="https://dts.podtrac.com/redirect.mp3/leaheymedia.com/podcast-download/86/028-baby-wipe-warmer.mp3" length="15.76" type="audio/mpeg"></enclosure>
+	<itunes:summary><![CDATA[Richie Leahey takes a look at baby wipe warmers and adds them to the Dad Strength ranking chart.]]></itunes:summary>
+	<itunes:explicit>clean</itunes:explicit>
+	<itunes:block>no</itunes:block>
+	<itunes:duration>16:17</itunes:duration>
+	<itunes:author><![CDATA[Leahey Media LLC]]></itunes:author>	<googleplay:description><![CDATA[Richie Leahey takes a look at baby wipe warmers and adds them to the Dad Strength ranking chart.]]></googleplay:description>
+	<googleplay:explicit>No</googleplay:explicit>
+	<googleplay:block>no</googleplay:block>
+</item>
+
+<item>
+	<title>027 Plastic Books</title>
+	<link>https://leaheymedia.com/podcast/027-plastic-books/</link>
+	<pubDate>Sat, 11 Mar 2017 03:14:50 +0000</pubDate>
+	<dc:creator><![CDATA[Leahey Media LLC]]></dc:creator>
+	<guid isPermaLink="false">https://leaheymedia.com/?post_type=podcast&#038;p=85</guid>
+	<description><![CDATA[<p>Richie Leahey takes a look at plastic books and adds them to the Dad Strength ranking chart.</p>]]></description>
+	<itunes:subtitle><![CDATA[Richie Leahey takes a look at plastic books and adds them to the Dad Strength ranking chart.]]></itunes:subtitle>
+	<content:encoded><![CDATA[<p>Richie Leahey takes a look at plastic books and adds them to the Dad Strength ranking chart.</p>]]></content:encoded>
+	<enclosure url="https://dts.podtrac.com/redirect.mp3/leaheymedia.com/podcast-download/85/027-plastic-books.mp3" length="13.78" type="audio/mpeg"></enclosure>
+	<itunes:summary><![CDATA[Richie Leahey takes a look at plastic books and adds them to the Dad Strength ranking chart.]]></itunes:summary>
+	<itunes:explicit>clean</itunes:explicit>
+	<itunes:block>no</itunes:block>
+	<itunes:duration>14:07</itunes:duration>
+	<itunes:author><![CDATA[Leahey Media LLC]]></itunes:author>	<googleplay:description><![CDATA[Richie Leahey takes a look at plastic books and adds them to the Dad Strength ranking chart.]]></googleplay:description>
+	<googleplay:explicit>No</googleplay:explicit>
+	<googleplay:block>no</googleplay:block>
+</item>
+
+<item>
+	<title>026 Rattles</title>
+	<link>https://leaheymedia.com/podcast/026-rattles/</link>
+	<pubDate>Sat, 04 Mar 2017 04:52:28 +0000</pubDate>
+	<dc:creator><![CDATA[Leahey Media LLC]]></dc:creator>
+	<guid isPermaLink="false">https://leaheymedia.com/?post_type=podcast&#038;p=84</guid>
+	<description><![CDATA[<p>Richie Leahey takes a look at rattles and adds them to the Dad Strength ranking chart.</p>]]></description>
+	<itunes:subtitle><![CDATA[Richie Leahey takes a look at rattles and adds them to the Dad Strength ranking chart.]]></itunes:subtitle>
+	<content:encoded><![CDATA[<p>Richie Leahey takes a look at rattles and adds them to the Dad Strength ranking chart.</p>]]></content:encoded>
+	<enclosure url="https://dts.podtrac.com/redirect.mp3/leaheymedia.com/podcast-download/84/026-rattles.mp3" length="14.55" type="audio/mpeg"></enclosure>
+	<itunes:summary><![CDATA[Richie Leahey takes a look at rattles and adds them to the Dad Strength ranking chart.]]></itunes:summary>
+	<itunes:explicit>clean</itunes:explicit>
+	<itunes:block>no</itunes:block>
+	<itunes:duration>14:58</itunes:duration>
+	<itunes:author><![CDATA[Leahey Media LLC]]></itunes:author>	<googleplay:description><![CDATA[Richie Leahey takes a look at rattles and adds them to the Dad Strength ranking chart.]]></googleplay:description>
+	<googleplay:explicit>No</googleplay:explicit>
+	<googleplay:block>no</googleplay:block>
+</item>
+
+<item>
+	<title>025 Baby Wipes</title>
+	<link>https://leaheymedia.com/podcast/025-baby-wipes/</link>
+	<pubDate>Sat, 25 Feb 2017 02:54:54 +0000</pubDate>
+	<dc:creator><![CDATA[Leahey Media LLC]]></dc:creator>
+	<guid isPermaLink="false">https://leaheymedia.com/?post_type=podcast&#038;p=83</guid>
+	<description><![CDATA[<p>Richie Leahey takes a look at baby wipes and adds them to the Dad Strength ranking chart.</p>]]></description>
+	<itunes:subtitle><![CDATA[Richie Leahey takes a look at baby wipes and adds them to the Dad Strength ranking chart.]]></itunes:subtitle>
+	<content:encoded><![CDATA[<p>Richie Leahey takes a look at baby wipes and adds them to the Dad Strength ranking chart.</p>]]></content:encoded>
+	<enclosure url="https://dts.podtrac.com/redirect.mp3/leaheymedia.com/podcast-download/83/025-baby-wipes.mp3" length="14.66" type="audio/mpeg"></enclosure>
+	<itunes:summary><![CDATA[Richie Leahey takes a look at baby wipes and adds them to the Dad Strength ranking chart.]]></itunes:summary>
+	<itunes:explicit>clean</itunes:explicit>
+	<itunes:block>no</itunes:block>
+	<itunes:duration>15:05</itunes:duration>
+	<itunes:author><![CDATA[Leahey Media LLC]]></itunes:author>	<googleplay:description><![CDATA[Richie Leahey takes a look at baby wipes and adds them to the Dad Strength ranking chart.]]></googleplay:description>
+	<googleplay:explicit>No</googleplay:explicit>
+	<googleplay:block>no</googleplay:block>
+</item>
+
+<item>
+	<title>024 Burp Cloths</title>
+	<link>https://leaheymedia.com/podcast/024-burp-cloths/</link>
+	<pubDate>Sat, 18 Feb 2017 01:39:37 +0000</pubDate>
+	<dc:creator><![CDATA[Leahey Media LLC]]></dc:creator>
+	<guid isPermaLink="false">https://leaheymedia.com/?post_type=podcast&#038;p=82</guid>
+	<description><![CDATA[<p>Richie Leahey takes a look at burp cloths and adds them to the Dad Strength ranking chart.</p>]]></description>
+	<itunes:subtitle><![CDATA[Richie Leahey takes a look at burp cloths and adds them to the Dad Strength ranking chart.]]></itunes:subtitle>
+	<content:encoded><![CDATA[<p>Richie Leahey takes a look at burp cloths and adds them to the Dad Strength ranking chart.</p>]]></content:encoded>
+	<enclosure url="https://dts.podtrac.com/redirect.mp3/leaheymedia.com/podcast-download/82/024-burp-cloths.mp3" length="15.5" type="audio/mpeg"></enclosure>
+	<itunes:summary><![CDATA[Richie Leahey takes a look at burp cloths and adds them to the Dad Strength ranking chart.]]></itunes:summary>
+	<itunes:explicit>clean</itunes:explicit>
+	<itunes:block>no</itunes:block>
+	<itunes:duration>16:00</itunes:duration>
+	<itunes:author><![CDATA[Leahey Media LLC]]></itunes:author>	<googleplay:description><![CDATA[Richie Leahey takes a look at burp cloths and adds them to the Dad Strength ranking chart.]]></googleplay:description>
+	<googleplay:explicit>No</googleplay:explicit>
+	<googleplay:block>no</googleplay:block>
+</item>
+
+<item>
+	<title>023 Pacifiers</title>
+	<link>https://leaheymedia.com/podcast/023-pacifiers/</link>
+	<pubDate>Sat, 11 Feb 2017 03:17:54 +0000</pubDate>
+	<dc:creator><![CDATA[Leahey Media LLC]]></dc:creator>
+	<guid isPermaLink="false">https://leaheymedia.com/?post_type=podcast&#038;p=80</guid>
+	<description><![CDATA[<p>Richie Leahey takes a look at pacifiers and adds them to the Dad Strength ranking chart.</p>]]></description>
+	<itunes:subtitle><![CDATA[Richie Leahey takes a look at pacifiers and adds them to the Dad Strength ranking chart.]]></itunes:subtitle>
+	<content:encoded><![CDATA[<p>Richie Leahey takes a look at pacifiers and adds them to the Dad Strength ranking chart.</p>]]></content:encoded>
+	<enclosure url="https://dts.podtrac.com/redirect.mp3/leaheymedia.com/podcast-download/80/023-pacifiers.mp3" length="14.73" type="audio/mpeg"></enclosure>
+	<itunes:summary><![CDATA[Richie Leahey takes a look at pacifiers and adds them to the Dad Strength ranking chart.]]></itunes:summary>
+	<itunes:explicit>clean</itunes:explicit>
+	<itunes:block>no</itunes:block>
+	<itunes:duration>15:10</itunes:duration>
+	<itunes:author><![CDATA[Leahey Media LLC]]></itunes:author>	<googleplay:description><![CDATA[Richie Leahey takes a look at pacifiers and adds them to the Dad Strength ranking chart.]]></googleplay:description>
+	<googleplay:explicit>No</googleplay:explicit>
+	<googleplay:block>no</googleplay:block>
+</item>
+
+<item>
+	<title>022 Disposable Diapers</title>
+	<link>https://leaheymedia.com/podcast/022-disposable-diapers/</link>
+	<pubDate>Sat, 04 Feb 2017 04:45:05 +0000</pubDate>
+	<dc:creator><![CDATA[Leahey Media LLC]]></dc:creator>
+	<guid isPermaLink="false">https://leaheymedia.com/?post_type=podcast&#038;p=79</guid>
+	<description><![CDATA[<p>Richie Leahey takes a look at disposable diapers and adds them to the Dad Strength ranking chart.</p>]]></description>
+	<itunes:subtitle><![CDATA[Richie Leahey takes a look at disposable diapers and adds them to the Dad Strength ranking chart.]]></itunes:subtitle>
+	<content:encoded><![CDATA[<p>Richie Leahey takes a look at disposable diapers and adds them to the Dad Strength ranking chart.</p>]]></content:encoded>
+	<enclosure url="https://dts.podtrac.com/redirect.mp3/leaheymedia.com/podcast-download/79/022-disposable-diapers.mp3" length="15.67" type="audio/mpeg"></enclosure>
+	<itunes:summary><![CDATA[Richie Leahey takes a look at disposable diapers and adds them to the Dad Strength ranking chart.]]></itunes:summary>
+	<itunes:explicit>clean</itunes:explicit>
+	<itunes:block>no</itunes:block>
+	<itunes:duration>16:11</itunes:duration>
+	<itunes:author><![CDATA[Leahey Media LLC]]></itunes:author>	<googleplay:description><![CDATA[Richie Leahey takes a look at disposable diapers and adds them to the Dad Strength ranking chart.]]></googleplay:description>
+	<googleplay:explicit>No</googleplay:explicit>
+	<googleplay:block>no</googleplay:block>
+</item>
+
+<item>
+	<title>021 Bottles</title>
+	<link>https://leaheymedia.com/podcast/021-bottles/</link>
+	<pubDate>Sat, 28 Jan 2017 03:21:30 +0000</pubDate>
+	<dc:creator><![CDATA[Leahey Media LLC]]></dc:creator>
+	<guid isPermaLink="false">https://leaheymedia.com/?post_type=podcast&#038;p=35</guid>
+	<description><![CDATA[<p>Richie Leahey takes a look at baby bottles and adds them to the Dad Strength ranking chart.</p>]]></description>
+	<itunes:subtitle><![CDATA[Richie Leahey takes a look at baby bottles and adds them to the Dad Strength ranking chart.]]></itunes:subtitle>
+	<content:encoded><![CDATA[<p>Richie Leahey takes a look at baby bottles and adds them to the Dad Strength ranking chart.</p>]]></content:encoded>
+	<enclosure url="https://dts.podtrac.com/redirect.mp3/leaheymedia.com/podcast-download/654/021-bottles.mp3" length="15.71" type="audio/mpeg"></enclosure>
+	<itunes:summary><![CDATA[Richie Leahey takes a look at baby bottles and adds them to the Dad Strength ranking chart.]]></itunes:summary>
+	<itunes:explicit>clean</itunes:explicit>
+	<itunes:block>no</itunes:block>
+	<itunes:duration>16:13</itunes:duration>
+	<itunes:author><![CDATA[Leahey Media LLC]]></itunes:author>	<googleplay:description><![CDATA[Richie Leahey takes a look at baby bottles and adds them to the Dad Strength ranking chart.]]></googleplay:description>
+	<googleplay:explicit>No</googleplay:explicit>
+	<googleplay:block>no</googleplay:block>
+</item>
+
+<item>
+	<title>020 Importance of a Good Toolbox Video Pilot</title>
+	<link>https://leaheymedia.com/podcast/020-importance-of-a-good-toolbox-video-pilot/</link>
+	<pubDate>Sat, 21 Jan 2017 03:23:53 +0000</pubDate>
+	<dc:creator><![CDATA[Leahey Media LLC]]></dc:creator>
+	<guid isPermaLink="false">https://leaheymedia.com/?post_type=podcast&#038;p=34</guid>
+	<description><![CDATA[<p>Richie Leahey launches the video portion of the Dad Strength show.  His pilot episode shows a set of table and chairs for children as he talks about the tools necessary to have as a parent today.</p>]]></description>
+	<itunes:subtitle><![CDATA[Richie Leahey launches the video portion of the Dad Strength show.  His pilot episode shows a set of table and chairs for children as he talks about the tools necessary to have as a parent today.]]></itunes:subtitle>
+	<content:encoded><![CDATA[<p>Richie Leahey launches the video portion of the Dad Strength show.  His pilot episode shows a set of table and chairs for children as he talks about the tools necessary to have as a parent today.</p>]]></content:encoded>
+	<enclosure url="https://dts.podtrac.com/redirect.mp3/leaheymedia.com/podcast-download/653/020-importance-of-a-good-toolbox-video-pilot.mp3" length="11.13" type="audio/mpeg"></enclosure>
+	<itunes:summary><![CDATA[Richie Leahey launches the video portion of the Dad Strength show.  His pilot episode shows a set of table and chairs for children as he talks about the tools necessary to have as a parent today.]]></itunes:summary>
+	<itunes:explicit>clean</itunes:explicit>
+	<itunes:block>no</itunes:block>
+	<itunes:duration>11:14</itunes:duration>
+	<itunes:author><![CDATA[Leahey Media LLC]]></itunes:author>	<googleplay:description><![CDATA[Richie Leahey launches the video portion of the Dad Strength show.  His pilot episode shows a set of table and chairs for children as he talks about the tools necessary to have as a parent today.]]></googleplay:description>
+	<googleplay:explicit>No</googleplay:explicit>
+	<googleplay:block>no</googleplay:block>
+</item>
+
+<item>
+	<title>019 Dad Strength Video Announcement Bonus Episode</title>
+	<link>https://leaheymedia.com/podcast/019-dad-strength-video-announcement-bonus-episode/</link>
+	<pubDate>Wed, 18 Jan 2017 23:51:28 +0000</pubDate>
+	<dc:creator><![CDATA[Leahey Media LLC]]></dc:creator>
+	<guid isPermaLink="false">https://leaheymedia.com/?post_type=podcast&#038;p=33</guid>
+	<description><![CDATA[<p>This is a bonus episode as the Dad Strength podcast will be moving to Friday.  This move has been expected as it was announced when Dad Strength moved to its own domain.</p>]]></description>
+	<itunes:subtitle><![CDATA[This is a bonus episode as the Dad Strength podcast will be moving to Friday.  This move has been expected as it was announced when Dad Strength moved to its own domain.]]></itunes:subtitle>
+	<content:encoded><![CDATA[<p>This is a bonus episode as the Dad Strength podcast will be moving to Friday.  This move has been expected as it was announced when Dad Strength moved to its own domain.</p>]]></content:encoded>
+	<enclosure url="https://dts.podtrac.com/redirect.mp3/leaheymedia.com/podcast-download/33/019-dad-strength-video-announcement-bonus-episode.mp3" length="10.56" type="audio/mpeg"></enclosure>
+	<itunes:summary><![CDATA[This is a bonus episode as the Dad Strength podcast will be moving to Friday.  This move has been expected as it was announced when Dad Strength moved to its own domain.]]></itunes:summary>
+	<itunes:explicit>clean</itunes:explicit>
+	<itunes:block>no</itunes:block>
+	<itunes:duration>10:36</itunes:duration>
+	<itunes:author><![CDATA[Leahey Media LLC]]></itunes:author>	<googleplay:description><![CDATA[This is a bonus episode as the Dad Strength podcast will be moving to Friday.  This move has been expected as it was announced when Dad Strength moved to its own domain.]]></googleplay:description>
+	<googleplay:explicit>No</googleplay:explicit>
+	<googleplay:block>no</googleplay:block>
+</item>
+
+<item>
+	<title>Year 5 Development Chart</title>
+	<link>https://leaheymedia.com/podcast/18-year-5-development-chart/</link>
+	<pubDate>Thu, 12 Jan 2017 01:55:48 +0000</pubDate>
+	<dc:creator><![CDATA[Leahey Media LLC]]></dc:creator>
+	<guid isPermaLink="false">https://leaheymedia.com/?post_type=podcast&#038;p=32</guid>
+	<description><![CDATA[<p>Richie finishes the CDC milestones by covering the year 5 development chart.  This chart marks the last big growth step for your child.  Your child will be able to speak clearly and be able to draw on their own.  They will also be able to balance on one let and will be potty trained.</p>]]></description>
+	<itunes:subtitle><![CDATA[Richie finishes the CDC milestones by covering the year 5 development chart.  This chart marks the last big growth step for your child.  Your child will be able to speak clearly and be able to draw on their own.  They will also be able to balance on one ]]></itunes:subtitle>
+	<itunes:episodeType>full</itunes:episodeType>
+	<itunes:title><![CDATA[Year 5 Development Chart]]></itunes:title>
+	<itunes:episode>18</itunes:episode>
+	<content:encoded><![CDATA[<p>Richie finishes the CDC milestones by covering the year 5 development chart.  This chart marks the last big growth step for your child.  Your child will be able to speak clearly and be able to draw on their own.  They will also be able to balance on one let and will be potty trained.</p>]]></content:encoded>
+	<enclosure url="https://dts.podtrac.com/redirect.mp3/leaheymedia.com/podcast-download/235/18-year-5-development-chart.mp3" length="24148705.28" type="audio/mpeg"></enclosure>
+	<itunes:summary><![CDATA[Richie finishes the CDC milestones by covering the year 5 development chart.  This chart marks the last big growth step for your child.  Your child will be able to speak clearly and be able to draw on their own.  They will also be able to balance on one let and will be potty trained.]]></itunes:summary>
+	<itunes:image href="https://leaheymedia.com/wp-content/uploads/dad-strength.jpg"></itunes:image>
+	<image>
+		<url>https://leaheymedia.com/wp-content/uploads/dad-strength.jpg</url>
+		<title>Year 5 Development Chart</title>
+	</image>
+	<itunes:explicit>clean</itunes:explicit>
+	<itunes:block>no</itunes:block>
+	<itunes:duration>16:09</itunes:duration>
+	<itunes:author><![CDATA[Leahey Media LLC]]></itunes:author>	<googleplay:description><![CDATA[Richie finishes the CDC milestones by covering the year 5 development chart.  This chart marks the last big growth step for your child.  Your child will be able to speak clearly and be able to draw on their own.  They will also be able to balance on one let and will be potty trained.]]></googleplay:description>
+	<googleplay:image href="https://leaheymedia.com/wp-content/uploads/dad-strength.jpg"></googleplay:image>
+	<googleplay:explicit>No</googleplay:explicit>
+	<googleplay:block>no</googleplay:block>
+</item>
+
+<item>
+	<title>Year 4 Development Chart</title>
+	<link>https://leaheymedia.com/podcast/17-year-4-development-chart/</link>
+	<pubDate>Thu, 05 Jan 2017 02:19:30 +0000</pubDate>
+	<dc:creator><![CDATA[Leahey Media LLC]]></dc:creator>
+	<guid isPermaLink="false">https://leaheymedia.com/?post_type=podcast&#038;p=31</guid>
+	<description><![CDATA[<p>Richie gives details on the future of the podcast and the introduction of video. He then dives into the year 4 milestones and what to expect from your child at this age. Children will want to play with other children and they will begin to understand and retell stories. They will also experience increased balanced and be able to catch objects with their hands.</p>]]></description>
+	<itunes:subtitle><![CDATA[Richie gives details on the future of the podcast and the introduction of video. He then dives into the year 4 milestones and what to expect from your child at this age. Children will want to play with other children and they will begin to understand and]]></itunes:subtitle>
+	<itunes:episodeType>full</itunes:episodeType>
+	<itunes:title><![CDATA[Year 4 Development Chart]]></itunes:title>
+	<itunes:episode>17</itunes:episode>
+	<content:encoded><![CDATA[<p>Richie gives details on the future of the podcast and the introduction of video. He then dives into the year 4 milestones and what to expect from your child at this age. Children will want to play with other children and they will begin to understand and retell stories. They will also experience increased balanced and be able to catch objects with their hands.</p>]]></content:encoded>
+	<enclosure url="https://dts.podtrac.com/redirect.mp3/leaheymedia.com/podcast-download/31/17-year-4-development-chart.mp3" length="15634268.16" type="audio/mpeg"></enclosure>
+	<itunes:summary><![CDATA[Richie gives details on the future of the podcast and the introduction of video. He then dives into the year 4 milestones and what to expect from your child at this age. Children will want to play with other children and they will begin to understand and retell stories. They will also experience increased balanced and be able to catch objects with their hands.]]></itunes:summary>
+	<itunes:image href="https://leaheymedia.com/wp-content/uploads/dad-strength.jpg"></itunes:image>
+	<image>
+		<url>https://leaheymedia.com/wp-content/uploads/dad-strength.jpg</url>
+		<title>Year 4 Development Chart</title>
+	</image>
+	<itunes:explicit>clean</itunes:explicit>
+	<itunes:block>no</itunes:block>
+	<itunes:duration>15:21</itunes:duration>
+	<itunes:author><![CDATA[Leahey Media LLC]]></itunes:author>	<googleplay:description><![CDATA[Richie gives details on the future of the podcast and the introduction of video. He then dives into the year 4 milestones and what to expect from your child at this age. Children will want to play with other children and they will begin to understand and retell stories. They will also experience increased balanced and be able to catch objects with their hands.]]></googleplay:description>
+	<googleplay:image href="https://leaheymedia.com/wp-content/uploads/dad-strength.jpg"></googleplay:image>
+	<googleplay:explicit>No</googleplay:explicit>
+	<googleplay:block>no</googleplay:block>
+</item>
+
+<item>
+	<title>Year 3 Development Chart</title>
+	<link>https://leaheymedia.com/podcast/16-year-3-development-chart/</link>
+	<pubDate>Wed, 28 Dec 2016 11:53:11 +0000</pubDate>
+	<dc:creator><![CDATA[Leahey Media LLC]]></dc:creator>
+	<guid isPermaLink="false">https://leaheymedia.com/?post_type=podcast&#038;p=30</guid>
+	<description><![CDATA[<p>Richie breaks down the year 3 milestones for child development.  These milestones cover increases in cognitive development where children will begin to mimic behaviors they observe.  This makes modeling good behavior very important for parents.</p>]]></description>
+	<itunes:subtitle><![CDATA[Richie breaks down the year 3 milestones for child development.  These milestones cover increases in cognitive development where children will begin to mimic behaviors they observe.  This makes modeling good behavior very important for parents.]]></itunes:subtitle>
+	<itunes:episodeType>full</itunes:episodeType>
+	<itunes:title><![CDATA[Year 3 Development Chart]]></itunes:title>
+	<itunes:episode>16</itunes:episode>
+	<content:encoded><![CDATA[<p>Richie breaks down the year 3 milestones for child development.  These milestones cover increases in cognitive development where children will begin to mimic behaviors they observe.  This makes modeling good behavior very important for parents.</p>]]></content:encoded>
+	<enclosure url="https://dts.podtrac.com/redirect.mp3/leaheymedia.com/podcast-download/30/16-year-3-development-chart.mp3" length="15864954.88" type="audio/mpeg"></enclosure>
+	<itunes:summary><![CDATA[Richie breaks down the year 3 milestones for child development.  These milestones cover increases in cognitive development where children will begin to mimic behaviors they observe.  This makes modeling good behavior very important for parents.]]></itunes:summary>
+	<itunes:image href="https://leaheymedia.com/wp-content/uploads/dad-strength.jpg"></itunes:image>
+	<image>
+		<url>https://leaheymedia.com/wp-content/uploads/dad-strength.jpg</url>
+		<title>Year 3 Development Chart</title>
+	</image>
+	<itunes:explicit>clean</itunes:explicit>
+	<itunes:block>no</itunes:block>
+	<itunes:duration>15:36</itunes:duration>
+	<itunes:author><![CDATA[Leahey Media LLC]]></itunes:author>	<googleplay:description><![CDATA[Richie breaks down the year 3 milestones for child development.  These milestones cover increases in cognitive development where children will begin to mimic behaviors they observe.  This makes modeling good behavior very important for parents.]]></googleplay:description>
+	<googleplay:image href="https://leaheymedia.com/wp-content/uploads/dad-strength.jpg"></googleplay:image>
+	<googleplay:explicit>No</googleplay:explicit>
+	<googleplay:block>no</googleplay:block>
+</item>
+
+<item>
+	<title>Year 2 Development Chart</title>
+	<link>https://leaheymedia.com/podcast/15-year-2-development-chart/</link>
+	<pubDate>Thu, 22 Dec 2016 02:22:24 +0000</pubDate>
+	<dc:creator><![CDATA[Leahey Media LLC]]></dc:creator>
+	<guid isPermaLink="false">https://leaheymedia.com/?post_type=podcast&#038;p=29</guid>
+	<description><![CDATA[<p>Richie breaks down the child development milestones for year 2.  At this age, children will begin to mimic others and develop a sense of independence.  They will also blossom physically and will be able to throw and kick objects.</p>]]></description>
+	<itunes:subtitle><![CDATA[Richie breaks down the child development milestones for year 2.  At this age, children will begin to mimic others and develop a sense of independence.  They will also blossom physically and will be able to throw and kick objects.]]></itunes:subtitle>
+	<itunes:episodeType>full</itunes:episodeType>
+	<itunes:title><![CDATA[Year 2 Development Chart]]></itunes:title>
+	<itunes:episode>15</itunes:episode>
+	<content:encoded><![CDATA[<p>Richie breaks down the child development milestones for year 2.  At this age, children will begin to mimic others and develop a sense of independence.  They will also blossom physically and will be able to throw and kick objects.</p>]]></content:encoded>
+	<enclosure url="https://dts.podtrac.com/redirect.mp3/leaheymedia.com/podcast-download/234/15-year-2-development-chart.mp3" length="14617149.44" type="audio/mpeg"></enclosure>
+	<itunes:summary><![CDATA[Richie breaks down the child development milestones for year 2.  At this age, children will begin to mimic others and develop a sense of independence.  They will also blossom physically and will be able to throw and kick objects.]]></itunes:summary>
+	<itunes:image href="https://leaheymedia.com/wp-content/uploads/dad-strength.jpg"></itunes:image>
+	<image>
+		<url>https://leaheymedia.com/wp-content/uploads/dad-strength.jpg</url>
+		<title>Year 2 Development Chart</title>
+	</image>
+	<itunes:explicit>clean</itunes:explicit>
+	<itunes:block>no</itunes:block>
+	<itunes:duration>14:17</itunes:duration>
+	<itunes:author><![CDATA[Leahey Media LLC]]></itunes:author>	<googleplay:description><![CDATA[Richie breaks down the child development milestones for year 2.  At this age, children will begin to mimic others and develop a sense of independence.  They will also blossom physically and will be able to throw and kick objects.]]></googleplay:description>
+	<googleplay:image href="https://leaheymedia.com/wp-content/uploads/dad-strength.jpg"></googleplay:image>
+	<googleplay:explicit>No</googleplay:explicit>
+	<googleplay:block>no</googleplay:block>
+</item>
+
+<item>
+	<title>Month 18 Development Chart</title>
+	<link>https://leaheymedia.com/podcast/14-month-18-development-chart/</link>
+	<pubDate>Thu, 15 Dec 2016 02:33:37 +0000</pubDate>
+	<dc:creator><![CDATA[Leahey Media LLC]]></dc:creator>
+	<guid isPermaLink="false">https://leaheymedia.com/?post_type=podcast&#038;p=28</guid>
+	<description><![CDATA[<p>Richie breaks down the 18 month milestones for child development.  This month marks an increase in brain development as children will begin to play with objects.  They will also be quite mobile and working towards being able to run.</p>]]></description>
+	<itunes:subtitle><![CDATA[Richie breaks down the 18 month milestones for child development.  This month marks an increase in brain development as children will begin to play with objects.  They will also be quite mobile and working towards being able to run.]]></itunes:subtitle>
+	<itunes:episodeType>full</itunes:episodeType>
+	<itunes:title><![CDATA[Month 18 Development Chart]]></itunes:title>
+	<itunes:episode>14</itunes:episode>
+	<content:encoded><![CDATA[<p>Richie breaks down the 18 month milestones for child development.  This month marks an increase in brain development as children will begin to play with objects.  They will also be quite mobile and working towards being able to run.</p>]]></content:encoded>
+	<enclosure url="https://dts.podtrac.com/redirect.mp3/leaheymedia.com/podcast-download/28/14-month-18-development-chart.mp3" length="15288238.08" type="audio/mpeg"></enclosure>
+	<itunes:summary><![CDATA[Richie breaks down the 18 month milestones for child development.  This month marks an increase in brain development as children will begin to play with objects.  They will also be quite mobile and working towards being able to run.]]></itunes:summary>
+	<itunes:image href="https://leaheymedia.com/wp-content/uploads/dad-strength.jpg"></itunes:image>
+	<image>
+		<url>https://leaheymedia.com/wp-content/uploads/dad-strength.jpg</url>
+		<title>Month 18 Development Chart</title>
+	</image>
+	<itunes:explicit>clean</itunes:explicit>
+	<itunes:block>no</itunes:block>
+	<itunes:duration>15:00</itunes:duration>
+	<itunes:author><![CDATA[Leahey Media LLC]]></itunes:author>	<googleplay:description><![CDATA[Richie breaks down the 18 month milestones for child development.  This month marks an increase in brain development as children will begin to play with objects.  They will also be quite mobile and working towards being able to run.]]></googleplay:description>
+	<googleplay:image href="https://leaheymedia.com/wp-content/uploads/dad-strength.jpg"></googleplay:image>
+	<googleplay:explicit>No</googleplay:explicit>
+	<googleplay:block>no</googleplay:block>
+</item>
+
+<item>
+	<title>Month 12 Development Chart</title>
+	<link>https://leaheymedia.com/podcast/13-month-12-development-chart/</link>
+	<pubDate>Thu, 08 Dec 2016 03:13:27 +0000</pubDate>
+	<dc:creator><![CDATA[Leahey Media LLC]]></dc:creator>
+	<guid isPermaLink="false">https://leaheymedia.com/?post_type=podcast&#038;p=26</guid>
+	<description><![CDATA[<p>Richie looks at the milestones for the 12th month of child development.  This month looks at an increase in understanding and trying to communicate.  Your baby should be moving towards walking and trying to stand will be the first step.</p>]]></description>
+	<itunes:subtitle><![CDATA[Richie looks at the milestones for the 12th month of child development.  This month looks at an increase in understanding and trying to communicate.  Your baby should be moving towards walking and trying to stand will be the first step.]]></itunes:subtitle>
+	<itunes:episodeType>full</itunes:episodeType>
+	<itunes:title><![CDATA[Month 12 Development Chart]]></itunes:title>
+	<itunes:episode>13</itunes:episode>
+	<content:encoded><![CDATA[<p>Richie looks at the milestones for the 12th month of child development.  This month looks at an increase in understanding and trying to communicate.  Your baby should be moving towards walking and trying to stand will be the first step.</p>]]></content:encoded>
+	<enclosure url="https://dts.podtrac.com/redirect.mp3/leaheymedia.com/podcast-download/26/13-month-12-development-chart.mp3" length="16357785.6" type="audio/mpeg"></enclosure>
+	<itunes:summary><![CDATA[Richie looks at the milestones for the 12th month of child development.  This month looks at an increase in understanding and trying to communicate.  Your baby should be moving towards walking and trying to stand will be the first step.]]></itunes:summary>
+	<itunes:image href="https://leaheymedia.com/wp-content/uploads/dad-strength.jpg"></itunes:image>
+	<image>
+		<url>https://leaheymedia.com/wp-content/uploads/dad-strength.jpg</url>
+		<title>Month 12 Development Chart</title>
+	</image>
+	<itunes:explicit>clean</itunes:explicit>
+	<itunes:block>no</itunes:block>
+	<itunes:duration>16:07</itunes:duration>
+	<itunes:author><![CDATA[Leahey Media LLC]]></itunes:author>	<googleplay:description><![CDATA[Richie looks at the milestones for the 12th month of child development.  This month looks at an increase in understanding and trying to communicate.  Your baby should be moving towards walking and trying to stand will be the first step.]]></googleplay:description>
+	<googleplay:image href="https://leaheymedia.com/wp-content/uploads/dad-strength.jpg"></googleplay:image>
+	<googleplay:explicit>No</googleplay:explicit>
+	<googleplay:block>no</googleplay:block>
+</item>
+
+<item>
+	<title>Month 9 Development Chart</title>
+	<link>https://leaheymedia.com/podcast/12-month-9-development-chart/</link>
+	<pubDate>Thu, 01 Dec 2016 03:32:12 +0000</pubDate>
+	<dc:creator><![CDATA[Leahey Media LLC]]></dc:creator>
+	<guid isPermaLink="false">https://leaheymedia.com/?post_type=podcast&#038;p=25</guid>
+	<description><![CDATA[<p>Richie looks at the milestones for the 9th month of child development.  This month looks at increasing movement and crawling from your child.  This milestone also brings about interactivity with other people.</p>]]></description>
+	<itunes:subtitle><![CDATA[Richie looks at the milestones for the 9th month of child development.  This month looks at increasing movement and crawling from your child.  This milestone also brings about interactivity with other people.]]></itunes:subtitle>
+	<itunes:episodeType>full</itunes:episodeType>
+	<itunes:title><![CDATA[Month 9 Development Chart]]></itunes:title>
+	<itunes:episode>12</itunes:episode>
+	<content:encoded><![CDATA[<p>Richie looks at the milestones for the 9th month of child development.  This month looks at increasing movement and crawling from your child.  This milestone also brings about interactivity with other people.</p>]]></content:encoded>
+	<enclosure url="https://dts.podtrac.com/redirect.mp3/leaheymedia.com/podcast-download/233/12-month-9-development-chart.mp3" length="15980298.24" type="audio/mpeg"></enclosure>
+	<itunes:summary><![CDATA[Richie looks at the milestones for the 9th month of child development.  This month looks at increasing movement and crawling from your child.  This milestone also brings about interactivity with other people.]]></itunes:summary>
+	<itunes:image href="https://leaheymedia.com/wp-content/uploads/dad-strength.jpg"></itunes:image>
+	<image>
+		<url>https://leaheymedia.com/wp-content/uploads/dad-strength.jpg</url>
+		<title>Month 9 Development Chart</title>
+	</image>
+	<itunes:explicit>clean</itunes:explicit>
+	<itunes:block>no</itunes:block>
+	<itunes:duration>15:43</itunes:duration>
+	<itunes:author><![CDATA[Leahey Media LLC]]></itunes:author>	<googleplay:description><![CDATA[Richie looks at the milestones for the 9th month of child development.  This month looks at increasing movement and crawling from your child.  This milestone also brings about interactivity with other people.]]></googleplay:description>
+	<googleplay:image href="https://leaheymedia.com/wp-content/uploads/dad-strength.jpg"></googleplay:image>
+	<googleplay:explicit>No</googleplay:explicit>
+	<googleplay:block>no</googleplay:block>
+</item>
+
+<item>
+	<title>Month 6 Development Chart</title>
+	<link>https://leaheymedia.com/podcast/11-month-6-development-chart/</link>
+	<pubDate>Thu, 24 Nov 2016 03:13:54 +0000</pubDate>
+	<dc:creator><![CDATA[Leahey Media LLC]]></dc:creator>
+	<guid isPermaLink="false">https://leaheymedia.com/?post_type=podcast&#038;p=24</guid>
+	<description><![CDATA[<p>Richie breaks down the 6th month milestones and begins to talk about baby movements.  At sixth months, your baby will become mobile and will start to progress through stages of movement.</p>]]></description>
+	<itunes:subtitle><![CDATA[Richie breaks down the 6th month milestones and begins to talk about baby movements.  At sixth months, your baby will become mobile and will start to progress through stages of movement.]]></itunes:subtitle>
+	<itunes:episodeType>full</itunes:episodeType>
+	<itunes:title><![CDATA[Month 6 Development Chart]]></itunes:title>
+	<itunes:episode>11</itunes:episode>
+	<content:encoded><![CDATA[<p>Richie breaks down the 6th month milestones and begins to talk about baby movements.  At sixth months, your baby will become mobile and will start to progress through stages of movement.</p>]]></content:encoded>
+	<enclosure url="https://dts.podtrac.com/redirect.mp3/leaheymedia.com/podcast-download/648/11-month-6-development-chart.mp3" length="16210984.96" type="audio/mpeg"></enclosure>
+	<itunes:summary><![CDATA[Richie breaks down the 6th month milestones and begins to talk about baby movements.  At sixth months, your baby will become mobile and will start to progress through stages of movement.]]></itunes:summary>
+	<itunes:image href="https://leaheymedia.com/wp-content/uploads/dad-strength.jpg"></itunes:image>
+	<image>
+		<url>https://leaheymedia.com/wp-content/uploads/dad-strength.jpg</url>
+		<title>Month 6 Development Chart</title>
+	</image>
+	<itunes:explicit>clean</itunes:explicit>
+	<itunes:block>no</itunes:block>
+	<itunes:duration>15:57</itunes:duration>
+	<itunes:author><![CDATA[Leahey Media LLC]]></itunes:author>	<googleplay:description><![CDATA[Richie breaks down the 6th month milestones and begins to talk about baby movements.  At sixth months, your baby will become mobile and will start to progress through stages of movement.]]></googleplay:description>
+	<googleplay:image href="https://leaheymedia.com/wp-content/uploads/dad-strength.jpg"></googleplay:image>
+	<googleplay:explicit>No</googleplay:explicit>
+	<googleplay:block>no</googleplay:block>
+</item>
+
+<item>
+	<title>Month 4 Development Chart</title>
+	<link>https://leaheymedia.com/podcast/10-month-4-development-chart/</link>
+	<pubDate>Thu, 17 Nov 2016 03:06:49 +0000</pubDate>
+	<dc:creator><![CDATA[Leahey Media LLC]]></dc:creator>
+	<guid isPermaLink="false">https://leaheymedia.com/?post_type=podcast&#038;p=23</guid>
+	<description><![CDATA[<p>Richie breaks down the 4th month milestones and gets into more detail as this chart goes deeper into child development.  He breaks down the types of cries, how children use them and what they mean.</p>]]></description>
+	<itunes:subtitle><![CDATA[Richie breaks down the 4th month milestones and gets into more detail as this chart goes deeper into child development.  He breaks down the types of cries, how children use them and what they mean.]]></itunes:subtitle>
+	<itunes:episodeType>full</itunes:episodeType>
+	<itunes:title><![CDATA[Month 4 Development Chart]]></itunes:title>
+	<itunes:episode>10</itunes:episode>
+	<content:encoded><![CDATA[<p>Richie breaks down the 4th month milestones and gets into more detail as this chart goes deeper into child development.  He breaks down the types of cries, how children use them and what they mean.</p>]]></content:encoded>
+	<enclosure url="https://dts.podtrac.com/redirect.mp3/leaheymedia.com/podcast-download/23/10-month-4-development-chart.mp3" length="18559795.2" type="audio/mpeg"></enclosure>
+	<itunes:summary><![CDATA[Richie breaks down the 4th month milestones and gets into more detail as this chart goes deeper into child development.  He breaks down the types of cries, how children use them and what they mean.]]></itunes:summary>
+	<itunes:image href="https://leaheymedia.com/wp-content/uploads/dad-strength.jpg"></itunes:image>
+	<image>
+		<url>https://leaheymedia.com/wp-content/uploads/dad-strength.jpg</url>
+		<title>Month 4 Development Chart</title>
+	</image>
+	<itunes:explicit>clean</itunes:explicit>
+	<itunes:block>no</itunes:block>
+	<itunes:duration>18:24</itunes:duration>
+	<itunes:author><![CDATA[Leahey Media LLC]]></itunes:author>	<googleplay:description><![CDATA[Richie breaks down the 4th month milestones and gets into more detail as this chart goes deeper into child development.  He breaks down the types of cries, how children use them and what they mean.]]></googleplay:description>
+	<googleplay:image href="https://leaheymedia.com/wp-content/uploads/dad-strength.jpg"></googleplay:image>
+	<googleplay:explicit>No</googleplay:explicit>
+	<googleplay:block>no</googleplay:block>
+</item>
+
+<item>
+	<title>Month 2 Development Chart</title>
+	<link>https://leaheymedia.com/podcast/09-month-2-development-chart/</link>
+	<pubDate>Thu, 10 Nov 2016 00:43:35 +0000</pubDate>
+	<dc:creator><![CDATA[Leahey Media LLC]]></dc:creator>
+	<guid isPermaLink="false">https://leaheymedia.com/?post_type=podcast&#038;p=22</guid>
+	<description><![CDATA[<p>Richie starts off a series of podcasts featuring development charts for children.  This podcast focuses on the 2nd month milestones and features an introduction of the categories used in development charts.</p>]]></description>
+	<itunes:subtitle><![CDATA[Richie starts off a series of podcasts featuring development charts for children.  This podcast focuses on the 2nd month milestones and features an introduction of the categories used in development charts.]]></itunes:subtitle>
+	<itunes:episodeType>full</itunes:episodeType>
+	<itunes:title><![CDATA[Month 2 Development Chart]]></itunes:title>
+	<itunes:episode>09</itunes:episode>
+	<content:encoded><![CDATA[<p>Richie starts off a series of podcasts featuring development charts for children.  This podcast focuses on the 2nd month milestones and features an introduction of the categories used in development charts.</p>]]></content:encoded>
+	<enclosure url="https://dts.podtrac.com/redirect.mp3/leaheymedia.com/podcast-download/22/09-month-2-development-chart.mp3" length="16148070.4" type="audio/mpeg"></enclosure>
+	<itunes:summary><![CDATA[Richie starts off a series of podcasts featuring development charts for children.  This podcast focuses on the 2nd month milestones and features an introduction of the categories used in development charts.]]></itunes:summary>
+	<itunes:image href="https://leaheymedia.com/wp-content/uploads/dad-strength.jpg"></itunes:image>
+	<image>
+		<url>https://leaheymedia.com/wp-content/uploads/dad-strength.jpg</url>
+		<title>Month 2 Development Chart</title>
+	</image>
+	<itunes:explicit>clean</itunes:explicit>
+	<itunes:block>no</itunes:block>
+	<itunes:duration>15:53</itunes:duration>
+	<itunes:author><![CDATA[Leahey Media LLC]]></itunes:author>	<googleplay:description><![CDATA[Richie starts off a series of podcasts featuring development charts for children.  This podcast focuses on the 2nd month milestones and features an introduction of the categories used in development charts.]]></googleplay:description>
+	<googleplay:image href="https://leaheymedia.com/wp-content/uploads/dad-strength.jpg"></googleplay:image>
+	<googleplay:explicit>No</googleplay:explicit>
+	<googleplay:block>no</googleplay:block>
+</item>
+
+<item>
+	<title>Introducing SIDS and Developmental Charts</title>
+	<link>https://leaheymedia.com/podcast/08-introducing-sids-and-developmental-charts/</link>
+	<pubDate>Thu, 03 Nov 2016 01:43:22 +0000</pubDate>
+	<dc:creator><![CDATA[Leahey Media LLC]]></dc:creator>
+	<guid isPermaLink="false">https://leaheymedia.com/?post_type=podcast&#038;p=21</guid>
+	<description><![CDATA[<p>Richie begins the podcast by talking about the developmental charts used to gauge the growth of children.  This leads him to talk about SIDS (Sudden Infant Death Syndrome) and his worries as a first time parent.   He circles back around to developmental charts and explains that they will be the basis of the upcoming podcasts.</p>]]></description>
+	<itunes:subtitle><![CDATA[Richie begins the podcast by talking about the developmental charts used to gauge the growth of children.  This leads him to talk about SIDS (Sudden Infant Death Syndrome) and his worries as a first time parent.   He circles back around to developmental ]]></itunes:subtitle>
+	<itunes:episodeType>full</itunes:episodeType>
+	<itunes:title><![CDATA[Introducing SIDS and Developmental Charts]]></itunes:title>
+	<itunes:episode>08</itunes:episode>
+	<content:encoded><![CDATA[<p>Richie begins the podcast by talking about the developmental charts used to gauge the growth of children.  This leads him to talk about SIDS (Sudden Infant Death Syndrome) and his worries as a first time parent.   He circles back around to developmental charts and explains that they will be the basis of the upcoming podcasts.</p>]]></content:encoded>
+	<enclosure url="https://dts.podtrac.com/redirect.mp3/leaheymedia.com/podcast-download/522/08-introducing-sids-and-developmental-charts.mp3" length="17909678.08" type="audio/mpeg"></enclosure>
+	<itunes:summary><![CDATA[Richie begins the podcast by talking about the developmental charts used to gauge the growth of children.  This leads him to talk about SIDS (Sudden Infant Death Syndrome) and his worries as a first time parent.   He circles back around to developmental charts and explains that they will be the basis of the upcoming podcasts.]]></itunes:summary>
+	<itunes:image href="https://leaheymedia.com/wp-content/uploads/dad-strength.jpg"></itunes:image>
+	<image>
+		<url>https://leaheymedia.com/wp-content/uploads/dad-strength.jpg</url>
+		<title>Introducing SIDS and Developmental Charts</title>
+	</image>
+	<itunes:explicit>clean</itunes:explicit>
+	<itunes:block>no</itunes:block>
+	<itunes:duration>17:43</itunes:duration>
+	<itunes:author><![CDATA[Leahey Media LLC]]></itunes:author>	<googleplay:description><![CDATA[Richie begins the podcast by talking about the developmental charts used to gauge the growth of children.  This leads him to talk about SIDS (Sudden Infant Death Syndrome) and his worries as a first time parent.   He circles back around to developmental charts and explains that they will be the basis of the upcoming podcasts.]]></googleplay:description>
+	<googleplay:image href="https://leaheymedia.com/wp-content/uploads/dad-strength.jpg"></googleplay:image>
+	<googleplay:explicit>No</googleplay:explicit>
+	<googleplay:block>no</googleplay:block>
+</item>
+
+<item>
+	<title>Syndication and Halloween</title>
+	<link>https://leaheymedia.com/podcast/07-syndication-and-halloween/</link>
+	<pubDate>Tue, 01 Nov 2016 01:16:10 +0000</pubDate>
+	<dc:creator><![CDATA[Leahey Media LLC]]></dc:creator>
+	<guid isPermaLink="false">https://leaheymedia.com/?post_type=podcast&#038;p=20</guid>
+	<description><![CDATA[<p>This is an in-between episode where Richie talks about a schedule change for the Dad Strength podcast.  The podcast will now be released on Wednesday.  He then talks about going out for Trick or Treat and dressing up for Halloween.  He finishes the episode by talking about Saturday morning cartoons and sign language.</p>]]></description>
+	<itunes:subtitle><![CDATA[This is an in-between episode where Richie talks about a schedule change for the Dad Strength podcast.  The podcast will now be released on Wednesday.  He then talks about going out for Trick or Treat and dressing up for Halloween.  He finishes the episo]]></itunes:subtitle>
+	<itunes:episodeType>full</itunes:episodeType>
+	<itunes:title><![CDATA[Syndication and Halloween]]></itunes:title>
+	<itunes:episode>07</itunes:episode>
+	<content:encoded><![CDATA[<p>This is an in-between episode where Richie talks about a schedule change for the Dad Strength podcast.  The podcast will now be released on Wednesday.  He then talks about going out for Trick or Treat and dressing up for Halloween.  He finishes the episode by talking about Saturday morning cartoons and sign language.</p>]]></content:encoded>
+	<enclosure url="https://dts.podtrac.com/redirect.mp3/leaheymedia.com/podcast-download/230/07-syndication-and-halloween.mp3" length="10485760" type="audio/mpeg"></enclosure>
+	<itunes:summary><![CDATA[This is an in-between episode where Richie talks about a schedule change for the Dad Strength podcast.  The podcast will now be released on Wednesday.  He then talks about going out for Trick or Treat and dressing up for Halloween.  He finishes the episode by talking about Saturday morning cartoons and sign language.]]></itunes:summary>
+	<itunes:image href="https://leaheymedia.com/wp-content/uploads/dad-strength.jpg"></itunes:image>
+	<image>
+		<url>https://leaheymedia.com/wp-content/uploads/dad-strength.jpg</url>
+		<title>Syndication and Halloween</title>
+	</image>
+	<itunes:explicit>clean</itunes:explicit>
+	<itunes:block>no</itunes:block>
+	<itunes:duration>9:59</itunes:duration>
+	<itunes:author><![CDATA[Leahey Media LLC]]></itunes:author>	<googleplay:description><![CDATA[This is an in-between episode where Richie talks about a schedule change for the Dad Strength podcast.  The podcast will now be released on Wednesday.  He then talks about going out for Trick or Treat and dressing up for Halloween.  He finishes the episode by talking about Saturday morning cartoons and sign language.]]></googleplay:description>
+	<googleplay:image href="https://leaheymedia.com/wp-content/uploads/dad-strength.jpg"></googleplay:image>
+	<googleplay:explicit>No</googleplay:explicit>
+	<googleplay:block>no</googleplay:block>
+</item>
+
+<item>
+	<title>Washing Your Baby</title>
+	<link>https://leaheymedia.com/podcast/06-washing-your-baby/</link>
+	<pubDate>Tue, 25 Oct 2016 02:46:51 +0000</pubDate>
+	<dc:creator><![CDATA[Leahey Media LLC]]></dc:creator>
+	<guid isPermaLink="false">https://leaheymedia.com/?post_type=podcast&#038;p=19</guid>
+	<description><![CDATA[<p>Richie chats about bathing your child and why it is important to keep your baby clean.  He gives tips on how to keep your baby safe during bath time and what he did to keep his daughter from slipping out of his hands.</p>]]></description>
+	<itunes:subtitle><![CDATA[Richie chats about bathing your child and why it is important to keep your baby clean.  He gives tips on how to keep your baby safe during bath time and what he did to keep his daughter from slipping out of his hands.]]></itunes:subtitle>
+	<itunes:episodeType>full</itunes:episodeType>
+	<itunes:title><![CDATA[Washing Your Baby]]></itunes:title>
+	<itunes:episode>06</itunes:episode>
+	<content:encoded><![CDATA[<p>Richie chats about bathing your child and why it is important to keep your baby clean.  He gives tips on how to keep your baby safe during bath time and what he did to keep his daughter from slipping out of his hands.</p>]]></content:encoded>
+	<enclosure url="https://dts.podtrac.com/redirect.mp3/leaheymedia.com/podcast-download/229/06-washing-your-baby.mp3" length="16714301.44" type="audio/mpeg"></enclosure>
+	<itunes:summary><![CDATA[Richie chats about bathing your child and why it is important to keep your baby clean.  He gives tips on how to keep your baby safe during bath time and what he did to keep his daughter from slipping out of his hands.]]></itunes:summary>
+	<itunes:image href="https://leaheymedia.com/wp-content/uploads/dad-strength.jpg"></itunes:image>
+	<image>
+		<url>https://leaheymedia.com/wp-content/uploads/dad-strength.jpg</url>
+		<title>Washing Your Baby</title>
+	</image>
+	<itunes:explicit>clean</itunes:explicit>
+	<itunes:block>no</itunes:block>
+	<itunes:duration>16:29</itunes:duration>
+	<itunes:author><![CDATA[Leahey Media LLC]]></itunes:author>	<googleplay:description><![CDATA[Richie chats about bathing your child and why it is important to keep your baby clean.  He gives tips on how to keep your baby safe during bath time and what he did to keep his daughter from slipping out of his hands.]]></googleplay:description>
+	<googleplay:image href="https://leaheymedia.com/wp-content/uploads/dad-strength.jpg"></googleplay:image>
+	<googleplay:explicit>No</googleplay:explicit>
+	<googleplay:block>no</googleplay:block>
+</item>
+
+<item>
+	<title>Diapers</title>
+	<link>https://leaheymedia.com/podcast/05-diapers/</link>
+	<pubDate>Tue, 18 Oct 2016 00:34:04 +0000</pubDate>
+	<dc:creator><![CDATA[Leahey Media LLC]]></dc:creator>
+	<guid isPermaLink="false">https://leaheymedia.com/?post_type=podcast&#038;p=18</guid>
+	<description><![CDATA[<p>Richie breaks down the sizes of diapers and what the numbers on the boxes mean.  He then gives an overview of the process of changing a diaper followed by tips and advice based on his own experience.</p>]]></description>
+	<itunes:subtitle><![CDATA[Richie breaks down the sizes of diapers and what the numbers on the boxes mean.  He then gives an overview of the process of changing a diaper followed by tips and advice based on his own experience.]]></itunes:subtitle>
+	<itunes:episodeType>full</itunes:episodeType>
+	<itunes:title><![CDATA[Diapers]]></itunes:title>
+	<itunes:episode>4</itunes:episode>
+	<content:encoded><![CDATA[<p>Richie breaks down the sizes of diapers and what the numbers on the boxes mean.  He then gives an overview of the process of changing a diaper followed by tips and advice based on his own experience.</p>]]></content:encoded>
+	<enclosure url="https://dts.podtrac.com/redirect.mp3/leaheymedia.com/podcast-download/18/05-diapers.mp3" length="19451084.8" type="audio/mpeg"></enclosure>
+	<itunes:summary><![CDATA[Richie breaks down the sizes of diapers and what the numbers on the boxes mean.  He then gives an overview of the process of changing a diaper followed by tips and advice based on his own experience.]]></itunes:summary>
+	<itunes:image href="https://leaheymedia.com/wp-content/uploads/dad-strength.jpg"></itunes:image>
+	<image>
+		<url>https://leaheymedia.com/wp-content/uploads/dad-strength.jpg</url>
+		<title>Diapers</title>
+	</image>
+	<itunes:explicit>clean</itunes:explicit>
+	<itunes:block>no</itunes:block>
+	<itunes:duration>19:20</itunes:duration>
+	<itunes:author><![CDATA[Leahey Media LLC]]></itunes:author>	<googleplay:description><![CDATA[Richie breaks down the sizes of diapers and what the numbers on the boxes mean.  He then gives an overview of the process of changing a diaper followed by tips and advice based on his own experience.]]></googleplay:description>
+	<googleplay:image href="https://leaheymedia.com/wp-content/uploads/dad-strength.jpg"></googleplay:image>
+	<googleplay:explicit>No</googleplay:explicit>
+	<googleplay:block>no</googleplay:block>
+</item>
+
+<item>
+	<title>Feeding Your Baby</title>
+	<link>https://leaheymedia.com/podcast/04-feeding-your-baby/</link>
+	<pubDate>Tue, 11 Oct 2016 03:45:15 +0000</pubDate>
+	<dc:creator><![CDATA[Leahey Media LLC]]></dc:creator>
+	<guid isPermaLink="false">https://leaheymedia.com/?post_type=podcast&#038;p=16</guid>
+	<description><![CDATA[<p>Richie gives an overview of feeding methods for infants.   He gives advice based on his experiences and the difficulties he faced in regards to breastfeeding.  He ends the podcast with tips on getting your baby to take a bottle.</p>]]></description>
+	<itunes:subtitle><![CDATA[Richie gives an overview of feeding methods for infants.   He gives advice based on his experiences and the difficulties he faced in regards to breastfeeding.  He ends the podcast with tips on getting your baby to take a bottle.]]></itunes:subtitle>
+	<itunes:episodeType>full</itunes:episodeType>
+	<itunes:title><![CDATA[Feeding Your Baby]]></itunes:title>
+	<itunes:episode>04</itunes:episode>
+	<content:encoded><![CDATA[<p>Richie gives an overview of feeding methods for infants.   He gives advice based on his experiences and the difficulties he faced in regards to breastfeeding.  He ends the podcast with tips on getting your baby to take a bottle.</p>]]></content:encoded>
+	<enclosure url="https://dts.podtrac.com/redirect.mp3/leaheymedia.com/podcast-download/228/04-feeding-your-baby.mp3" length="15456010.24" type="audio/mpeg"></enclosure>
+	<itunes:summary><![CDATA[Richie gives an overview of feeding methods for infants.   He gives advice based on his experiences and the difficulties he faced in regards to breastfeeding.  He ends the podcast with tips on getting your baby to take a bottle.]]></itunes:summary>
+	<itunes:image href="https://leaheymedia.com/wp-content/uploads/dad-strength.jpg"></itunes:image>
+	<image>
+		<url>https://leaheymedia.com/wp-content/uploads/dad-strength.jpg</url>
+		<title>Feeding Your Baby</title>
+	</image>
+	<itunes:explicit>clean</itunes:explicit>
+	<itunes:block>no</itunes:block>
+	<itunes:duration>15:10</itunes:duration>
+	<itunes:author><![CDATA[Leahey Media LLC]]></itunes:author>	<googleplay:description><![CDATA[Richie gives an overview of feeding methods for infants.   He gives advice based on his experiences and the difficulties he faced in regards to breastfeeding.  He ends the podcast with tips on getting your baby to take a bottle.]]></googleplay:description>
+	<googleplay:image href="https://leaheymedia.com/wp-content/uploads/dad-strength.jpg"></googleplay:image>
+	<googleplay:explicit>No</googleplay:explicit>
+	<googleplay:block>no</googleplay:block>
+</item>
+
+<item>
+	<title>How to Have Your Baby Sleep Through the Night</title>
+	<link>https://leaheymedia.com/podcast/03-how-to-have-your-baby-sleep-through-the-night/</link>
+	<pubDate>Tue, 04 Oct 2016 03:00:37 +0000</pubDate>
+	<dc:creator><![CDATA[Leahey Media LLC]]></dc:creator>
+	<guid isPermaLink="false">https://leaheymedia.com/?post_type=podcast&#038;p=15</guid>
+	<description><![CDATA[<p>Richie talks about sleep schedules with a baby in the house.  He stresses how important it is to keep your schedule as close to the baby’s schedule to keep energy levels up.  He also talks about keeping your house loud so that your baby becomes accustomed to sleeping in a normal environment.</p>]]></description>
+	<itunes:subtitle><![CDATA[Richie talks about sleep schedules with a baby in the house.  He stresses how important it is to keep your schedule as close to the baby’s schedule to keep energy levels up.  He also talks about keeping your house loud so that your baby becomes accustome]]></itunes:subtitle>
+	<itunes:episodeType>full</itunes:episodeType>
+	<itunes:title><![CDATA[How to Have Your Baby Sleep Through the Night]]></itunes:title>
+	<itunes:episode>03</itunes:episode>
+	<content:encoded><![CDATA[<p>Richie talks about sleep schedules with a baby in the house.  He stresses how important it is to keep your schedule as close to the baby’s schedule to keep energy levels up.  He also talks about keeping your house loud so that your baby becomes accustomed to sleeping in a normal environment.</p>]]></content:encoded>
+	<enclosure url="https://dts.podtrac.com/redirect.mp3/leaheymedia.com/podcast-download/521/03-how-to-have-your-baby-sleep-through-the-night.mp3" length="14617149.44" type="audio/mpeg"></enclosure>
+	<itunes:summary><![CDATA[Richie talks about sleep schedules with a baby in the house.  He stresses how important it is to keep your schedule as close to the baby’s schedule to keep energy levels up.  He also talks about keeping your house loud so that your baby becomes accustomed to sleeping in a normal environment.]]></itunes:summary>
+	<itunes:image href="https://leaheymedia.com/wp-content/uploads/dad-strength.jpg"></itunes:image>
+	<image>
+		<url>https://leaheymedia.com/wp-content/uploads/dad-strength.jpg</url>
+		<title>How to Have Your Baby Sleep Through the Night</title>
+	</image>
+	<itunes:explicit>clean</itunes:explicit>
+	<itunes:block>no</itunes:block>
+	<itunes:duration>14:17</itunes:duration>
+	<itunes:author><![CDATA[Leahey Media LLC]]></itunes:author>	<googleplay:description><![CDATA[Richie talks about sleep schedules with a baby in the house.  He stresses how important it is to keep your schedule as close to the baby’s schedule to keep energy levels up.  He also talks about keeping your house loud so that your baby becomes accustomed to sleeping in a normal environment.]]></googleplay:description>
+	<googleplay:image href="https://leaheymedia.com/wp-content/uploads/dad-strength.jpg"></googleplay:image>
+	<googleplay:explicit>No</googleplay:explicit>
+	<googleplay:block>no</googleplay:block>
+</item>
+
+<item>
+	<title>You Are Going to Be a Dad</title>
+	<link>https://leaheymedia.com/podcast/02-you-are-going-to-be-a-dad/</link>
+	<pubDate>Tue, 27 Sep 2016 02:30:58 +0000</pubDate>
+	<dc:creator><![CDATA[Leahey Media LLC]]></dc:creator>
+	<guid isPermaLink="false">https://leaheymedia.com/?post_type=podcast&#038;p=12</guid>
+	<description><![CDATA[<p>Richie discusses the initial stages of preparation needed for the arrival of your new addition.  He talks about baby showers and essential items.  He also gives advice on finding out how your health insurance can help your family.</p>]]></description>
+	<itunes:subtitle><![CDATA[Richie discusses the initial stages of preparation needed for the arrival of your new addition.  He talks about baby showers and essential items.  He also gives advice on finding out how your health insurance can help your family.]]></itunes:subtitle>
+	<itunes:episodeType>full</itunes:episodeType>
+	<itunes:title><![CDATA[You Are Going to Be a Dad]]></itunes:title>
+	<itunes:episode>02</itunes:episode>
+	<content:encoded><![CDATA[<p>Richie discusses the initial stages of preparation needed for the arrival of your new addition.  He talks about baby showers and essential items.  He also gives advice on finding out how your health insurance can help your family.</p>]]></content:encoded>
+	<enclosure url="https://dts.podtrac.com/redirect.mp3/leaheymedia.com/podcast-download/520/02-you-are-going-to-be-a-dad.mp3" length="12677283.84" type="audio/mpeg"></enclosure>
+	<itunes:summary><![CDATA[Richie discusses the initial stages of preparation needed for the arrival of your new addition.  He talks about baby showers and essential items.  He also gives advice on finding out how your health insurance can help your family.]]></itunes:summary>
+	<itunes:image href="https://leaheymedia.com/wp-content/uploads/dad-strength.jpg"></itunes:image>
+	<image>
+		<url>https://leaheymedia.com/wp-content/uploads/dad-strength.jpg</url>
+		<title>You Are Going to Be a Dad</title>
+	</image>
+	<itunes:explicit>clean</itunes:explicit>
+	<itunes:block>no</itunes:block>
+	<itunes:duration>12:17</itunes:duration>
+	<itunes:author><![CDATA[Leahey Media LLC]]></itunes:author>	<googleplay:description><![CDATA[Richie discusses the initial stages of preparation needed for the arrival of your new addition.  He talks about baby showers and essential items.  He also gives advice on finding out how your health insurance can help your family.]]></googleplay:description>
+	<googleplay:image href="https://leaheymedia.com/wp-content/uploads/dad-strength.jpg"></googleplay:image>
+	<googleplay:explicit>No</googleplay:explicit>
+	<googleplay:block>no</googleplay:block>
+</item>
+
+<item>
+	<title>Introduction</title>
+	<link>https://leaheymedia.com/podcast/01-introduction/</link>
+	<pubDate>Tue, 20 Sep 2016 03:00:58 +0000</pubDate>
+	<dc:creator><![CDATA[Leahey Media LLC]]></dc:creator>
+	<guid isPermaLink="false">https://leaheymedia.com/?post_type=podcast&#038;p=11</guid>
+	<description><![CDATA[<p>The introduction to the Dad Strength podcast. Host Richie Leahey introduces himself and discusses the format of the show. Dad Strength will cover common parenting topics and issues as Richie shares his personal experiences as a parent.</p>]]></description>
+	<itunes:subtitle><![CDATA[The introduction to the Dad Strength podcast. Host Richie Leahey introduces himself and discusses the format of the show. Dad Strength will cover common parenting topics and issues as Richie shares his personal experiences as a parent.]]></itunes:subtitle>
+	<itunes:episodeType>full</itunes:episodeType>
+	<itunes:title><![CDATA[Introduction]]></itunes:title>
+	<itunes:episode>01</itunes:episode>
+	<content:encoded><![CDATA[<p>The introduction to the Dad Strength podcast. Host Richie Leahey introduces himself and discusses the format of the show. Dad Strength will cover common parenting topics and issues as Richie shares his personal experiences as a parent.</p>]]></content:encoded>
+	<enclosure url="https://dts.podtrac.com/redirect.mp3/leaheymedia.com/podcast-download/519/01-introduction.mp3" length="6343884.8" type="audio/mpeg"></enclosure>
+	<itunes:summary><![CDATA[The introduction to the Dad Strength podcast. Host Richie Leahey introduces himself and discusses the format of the show. Dad Strength will cover common parenting topics and issues as Richie shares his personal experiences as a parent.]]></itunes:summary>
+	<itunes:image href="https://leaheymedia.com/wp-content/uploads/dad-strength.jpg"></itunes:image>
+	<image>
+		<url>https://leaheymedia.com/wp-content/uploads/dad-strength.jpg</url>
+		<title>Introduction</title>
+	</image>
+	<itunes:explicit>clean</itunes:explicit>
+	<itunes:block>no</itunes:block>
+	<itunes:duration>5:41</itunes:duration>
+	<itunes:author><![CDATA[Leahey Media LLC]]></itunes:author>	<googleplay:description><![CDATA[The introduction to the Dad Strength podcast. Host Richie Leahey introduces himself and discusses the format of the show. Dad Strength will cover common parenting topics and issues as Richie shares his personal experiences as a parent.]]></googleplay:description>
+	<googleplay:image href="https://leaheymedia.com/wp-content/uploads/dad-strength.jpg"></googleplay:image>
+	<googleplay:explicit>No</googleplay:explicit>
+	<googleplay:block>no</googleplay:block>
+</item>
+
+<item>
+	<title>Congratulations on Becoming a Parent</title>
+	<link>https://leaheymedia.com/podcast/00-congratulations-on-becoming-a-parent/</link>
+	<pubDate>Mon, 19 Sep 2016 11:00:16 +0000</pubDate>
+	<dc:creator><![CDATA[Leahey Media LLC]]></dc:creator>
+	<guid isPermaLink="false">https://leaheymedia.com/?post_type=podcast&#038;p=9</guid>
+	<description><![CDATA[<p>Congratulations on Becoming a Parent</p>]]></description>
+	<itunes:subtitle><![CDATA[Congratulations on Becoming a Parent]]></itunes:subtitle>
+	<itunes:episodeType>full</itunes:episodeType>
+	<itunes:title><![CDATA[Congratulations on Becoming a Parent]]></itunes:title>
+	<itunes:episode>00</itunes:episode>
+	<content:encoded><![CDATA[<p>Congratulations on Becoming a Parent</p>]]></content:encoded>
+	<enclosure url="https://dts.podtrac.com/redirect.mp3/leaheymedia.com/podcast-download/518/00-congratulations-on-becoming-a-parent.mp3" length="7937720.32" type="audio/mpeg"></enclosure>
+	<itunes:summary><![CDATA[Congratulations on Becoming a Parent]]></itunes:summary>
+	<itunes:image href="https://leaheymedia.com/wp-content/uploads/dad-strength.jpg"></itunes:image>
+	<image>
+		<url>https://leaheymedia.com/wp-content/uploads/dad-strength.jpg</url>
+		<title>Congratulations on Becoming a Parent</title>
+	</image>
+	<itunes:explicit>clean</itunes:explicit>
+	<itunes:block>no</itunes:block>
+	<itunes:duration>5:41</itunes:duration>
+	<itunes:author><![CDATA[Leahey Media LLC]]></itunes:author>	<googleplay:description><![CDATA[Congratulations on Becoming a Parent]]></googleplay:description>
+	<googleplay:image href="https://leaheymedia.com/wp-content/uploads/dad-strength.jpg"></googleplay:image>
+	<googleplay:explicit>No</googleplay:explicit>
+	<googleplay:block>no</googleplay:block>
+</item>
+	</channel>
+</rss>
